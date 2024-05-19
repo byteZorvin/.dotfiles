@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/xmodmap /home/bytezorvin/.Xmodmap
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_IN]=Remaps
+Comment[en_IN]=This remaps the keys
+X-GNOME-Autostart-Delay=5
