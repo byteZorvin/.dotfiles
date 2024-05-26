@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "571de2ef3925ab42",
+        "id": "a8c87454433d9a99",
         "type": "tabs",
         "children": [
           {
-            "id": "3072f4620a11737d",
+            "id": "03f10cd2c364293e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity/i3-config.md",
+                "file": "Productivity/Fonts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/i3-config.md",
+                "file": "Productivity/Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/i3-config.md",
+                "file": "Productivity/Fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/i3-config.md"
+                "file": "Productivity/Fonts.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3072f4620a11737d",
+  "active": "03f10cd2c364293e",
   "lastOpenFiles": [
-    "Productivity/i3.md",
+    "Mehul/Daily/26-05-2024.md",
     "Productivity/i3-config.md",
+    "Productivity/i3.md",
     "Uniswap/Automated.md",
     "Raveena/Router Protocol/Casper.md",
     "Raveena/2024-05-23.md",
@@ -175,7 +176,6 @@
     "Productivity/Fonts.md",
     "Productivity/Neovim Macros.md",
     "Productivity/Vim Tmux Navigator.md",
-    "Productivity/True Colors.md",
     "Pasted image 20240215202601.png",
     "STRKFarm",
     "Vision/Short term",
