@@ -22,6 +22,10 @@ export LC_ALL=en_IN.UTF-8
 export LANG=en_IN.UTF-8
 
 
+# GTK_THEME not working properly in i3
+export GTK_THEME=Adwaita-dark
+
+
 #  PATH VARIABLES START
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -77,4 +81,3 @@ source /etc/zsh_command_not_found
 # append completions to fpath
 fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
-autoload -Uz compinit && compinit

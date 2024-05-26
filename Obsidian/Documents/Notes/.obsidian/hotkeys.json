@@ -41,18 +41,11 @@
       "key": "P"
     }
   ],
-  "editor:open-link-in-new-leaf": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "editor:open-link-in-new-leaf": [],
   "editor:follow-link": [
     {
       "modifiers": [
-        "Shift"
+        "Mod"
       ],
       "key": "Enter"
     }

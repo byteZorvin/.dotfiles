@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniswap/Automated.md",
+                "file": "Productivity/i3-config.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniswap/Automated.md",
+                "file": "Productivity/i3-config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniswap/Automated.md",
+                "file": "Productivity/i3-config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniswap/Automated.md"
+                "file": "Productivity/i3-config.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "3072f4620a11737d",
   "lastOpenFiles": [
-    "Uniswap/02-05-2024.md",
+    "Productivity/i3.md",
+    "Productivity/i3-config.md",
     "Uniswap/Automated.md",
+    "Raveena/Router Protocol/Casper.md",
+    "Raveena/2024-05-23.md",
+    "Pasted image 20240521182121.png",
+    "Pasted image 20240521182014.png",
+    "Uniswap/02-05-2024.md",
     "Uniswap/Products around Uni.md",
     "STRKFarm/Pool investing.md",
     "STRKFarm/Buying vs borrowing.md",
@@ -170,10 +176,6 @@
     "Productivity/Neovim Macros.md",
     "Productivity/Vim Tmux Navigator.md",
     "Productivity/True Colors.md",
-    "Productivity/Tmux.md",
-    "Raveena/2024-05-08.md",
-    "Raveena/2024-03-24.md",
-    "STRKFarm/Bull Stark.md",
     "Pasted image 20240215202601.png",
     "STRKFarm",
     "Vision/Short term",
