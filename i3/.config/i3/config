@@ -36,6 +36,11 @@ exec --no-startup-id nm-applet
 
 # Had tried this for fixing theme issue/ did not work
 # exec --no-startup-id /usr/libexec/gsd-xsettings
+#
+
+# Why does my brighness keys not work?
+bindsym XF86MonBrightnessUp exec --no-startup-id sudo brightnessctl set +5%
+bindsym XF86MonBrightnessDown exec --no-startup-id sudo brightnessctl set 5%-
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
