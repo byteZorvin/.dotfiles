@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 
 
 
+source ~/.zsh_profile
 
 # ----------------------- pre omz config ------------------------------#
 # Tmux not knowing that utf8 is suppported and symbols not proper
