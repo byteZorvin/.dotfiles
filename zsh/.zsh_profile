@@ -1,0 +1,18 @@
+#!/usr/bin/env zsh
+
+# Remapping the caps to control
+setxkbmap -option caps:ctrl_modifier
+
+addToPath() {
+    if [[ "$PATH" != *"$1"* ]]; then
+        export PATH=$PATH:$1
+    fi
+}
+
+bindkey -v
+
+# Where should I put you?
+bindkey -s ^f "tmux-sessionizer\n"
+
+
+

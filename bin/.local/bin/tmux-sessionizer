@@ -1,0 +1,29 @@
+#!/usr/bin/env zsh
+
+if [[ $# -eq 1 ]]; then
+  selected=$1
+else
+  selected=$(find ~ ~/projects/ ~/learning/ ~/work/* -mindepth 1 -maxdepth 1 -type d | fzf)
+fi
+
+# If nothing matched, then selected remains empty
+# To avoid creating a sesssion with an empty name and directly exit
+if [[ -z $selected ]]; then
+	exit 0
+fi
+
+session_name=$(basename "$selected" | tr . _)
+tmux_running=$(pgrep tmux)
+
+if [[ -z $TMUX ]] && [[ -z $tmux_running ]]; then
+	tmux new-session -s "$session_name" -c "$selected"
+	exit 0
+fi
+
+if ! tmux has-session -t $session_name 2>/dev/null; then
+	tmux new-session -ds "$session_name" -c "$selected"
+fi
+
+tmux switch-client -t $session_name
+
+# nvim elected
