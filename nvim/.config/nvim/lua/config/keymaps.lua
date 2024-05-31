@@ -4,3 +4,4 @@
 
 vim.keymap.set("n", "<C-a>", "gg<S-v>G")
 vim.keymap.set("n", "<C-f>", ":!tmux neww tmux-sessionizer<CR>", { noremap = true, silent = true })
+-- vim.keymap.set("i", "<")

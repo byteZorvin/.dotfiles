@@ -9,6 +9,7 @@ addToPath() {
     fi
 }
 
+
 bindkey -v
 
 # Where should I put you?
