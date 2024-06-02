@@ -188,6 +188,9 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+## The compositor
+exec --no-startup-id picom
+
 # Dual monitor setup
 # for extending the display
 # exec --no-startup-id xrandr --output eDP --primary --auto --output HDMI-1-0 --auto --right-of eDP

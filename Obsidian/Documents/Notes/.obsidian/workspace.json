@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "6f5b669fef35c06a",
+            "id": "a459923bb8c6ab7b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md"
+                "file": "Mehul/Karnot/Solution.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/Display.md",
+                "file": "Mehul/Karnot/Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/Display.md",
+                "file": "Mehul/Karnot/Solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Productivity/Display.md"
+                "file": "Mehul/Karnot/Solution.md"
               }
             }
           }
@@ -159,10 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03f10cd2c364293e",
+  "active": "a459923bb8c6ab7b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
+    "Mehul/Karnot/Assignment.md",
+    "Mehul/Karnot/Solution.md",
+    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
+    "Mehul/Karnot",
+    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
     "Productivity/Display.md",
+    "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
     "Excalidraw",
     "Productivity/Workflow.md",
     "Productivity/Fonts.md",
@@ -187,9 +194,6 @@
     "Productivity/Remaps.md",
     "Productivity/Comman-Not-Found.md",
     "Productivity/zsh.md",
-    "Markets/Rakesh's Sir talk.md",
-    "Productivity/Developer Productivity/Introduction.md",
-    "Productivity/Developer Productivity/Problem Statement.md",
     "Pasted image 20240215202601.png",
     "STRKFarm",
     "Vision/Short term",
@@ -203,7 +207,6 @@
     "Pasted image 20240502001358.png",
     "Uniswap",
     "Raveena/5G and Advanced Mobile Communication_TOPIC/module5",
-    "Raveena/5G and Advanced Mobile Communication_TOPIC/module4",
     "Untitled 1.canvas"
   ]
 }
