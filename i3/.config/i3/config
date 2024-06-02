@@ -34,6 +34,19 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 
+# this nalayak just never worked, made one monitor inactive, I start picom in the terminal(zsh_profile now)
+# ## The compositor
+# exec --no-startup-id picom --daemon
+# Dual monitor setup
+# for extending the display
+# exec --no-startup-id xrandr --output eDP --primary --auto --output HDMI-1-0 --auto --right-of eDP
+exec_always --no-startup-id "display_setup.sh"
+# for mirroring the display
+# exec --no-startup-id xrandr --output eDP --auto --output HDMI-1-0 --auto --same-as eDP
+
+# Background setting using feh
+exec_always --no-startup-id feh --bg-scale ~/.config/background/japan.jpg 
+
 # Had tried this for fixing theme issue/ did not work
 # exec --no-startup-id /usr/libexec/gsd-xsettings
 #
@@ -188,19 +201,6 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-## The compositor
-exec --no-startup-id picom
-
-# Dual monitor setup
-# for extending the display
-# exec --no-startup-id xrandr --output eDP --primary --auto --output HDMI-1-0 --auto --right-of eDP
-exec_always --no-startup-id "display_setup.sh"
-# for mirroring the display
-# exec --no-startup-id xrandr --output eDP --auto --output HDMI-1-0 --auto --same-as eDP
-
-
-# Background setting using feh
-exec_always --no-startup-id feh --bg-scale ~/.config/background/japan.jpg 
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
