@@ -3,8 +3,6 @@
 # Remapping the caps to control
 setxkbmap -option caps:ctrl_modifier
 
-picom --daemon
-
 addToPath() {
     if [[ "$PATH" != *"$1"* ]]; then
         export PATH=$PATH:$1

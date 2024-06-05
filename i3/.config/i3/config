@@ -45,7 +45,7 @@ exec_always --no-startup-id "display_setup.sh"
 # exec --no-startup-id xrandr --output eDP --auto --output HDMI-1-0 --auto --same-as eDP
 
 # Background setting using feh
-exec_always --no-startup-id feh --bg-scale ~/.config/background/japan.jpg 
+# exec_always --no-startup-id feh --bg-scale ~/.config/background/japan.jpg 
 
 # Had tried this for fixing theme issue/ did not work
 # exec --no-startup-id /usr/libexec/gsd-xsettings

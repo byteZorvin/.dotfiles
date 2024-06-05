@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03f10cd2c364293e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity/Display.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a459923bb8c6ab7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Karnot/Solution.md",
+                "file": "Mehul/Weekly/05-06-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754,
-    "collapsed": true
+    "width": 306.5019874572754
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Karnot/Solution.md",
+                "file": "Mehul/Weekly/05-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Karnot/Solution.md",
+                "file": "Mehul/Weekly/05-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Karnot/Solution.md"
+                "file": "Mehul/Weekly/05-06-2024.md"
               }
             }
           }
@@ -163,13 +149,19 @@
   },
   "active": "a459923bb8c6ab7b",
   "lastOpenFiles": [
-    "Mehul/Karnot/Assignment.md",
-    "Mehul/Karnot/Solution.md",
+    "Mehul/Karnot/Interview Prep.md",
+    "Mehul/Weekly/05-06-2024.md",
+    "Mehul/Weekly",
+    "Mehul/Daily/05-06-2024.md",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
-    "Mehul/Karnot",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
-    "Productivity/Display.md",
     "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
+    "Productivity/Desktop Setup.md",
+    "Productivity/Display.md",
+    "Natural Scrolling.md",
+    "Mehul/Karnot/Solution.md",
+    "Mehul/Karnot/Assignment.md",
+    "Mehul/Karnot",
     "Excalidraw",
     "Productivity/Workflow.md",
     "Productivity/Fonts.md",
@@ -189,11 +181,6 @@
     "STRKFarm/Buying vs borrowing.md",
     "STRKFarm/Delta Neutral.md",
     "Productivity/GNU Stow.md",
-    "Productivity/Neovim Commands.md",
-    "Productivity/Docker Installation.md",
-    "Productivity/Remaps.md",
-    "Productivity/Comman-Not-Found.md",
-    "Productivity/zsh.md",
     "Pasted image 20240215202601.png",
     "STRKFarm",
     "Vision/Short term",
@@ -206,7 +193,6 @@
     "Markets",
     "Pasted image 20240502001358.png",
     "Uniswap",
-    "Raveena/5G and Advanced Mobile Communication_TOPIC/module5",
     "Untitled 1.canvas"
   ]
 }
