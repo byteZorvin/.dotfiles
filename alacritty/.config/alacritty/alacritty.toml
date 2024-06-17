@@ -15,3 +15,8 @@ style = "Regular"
 
 [mouse]
 hide_when_typing = true
+
+[keyboard]
+bindings = [
+{ key = "F11", action = "ToggleFullscreen" }
+]

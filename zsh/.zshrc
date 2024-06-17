@@ -172,3 +172,4 @@ source /etc/zsh_command_not_found
 fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 
+# . "/home/bytezorvin/.starkli/env"
