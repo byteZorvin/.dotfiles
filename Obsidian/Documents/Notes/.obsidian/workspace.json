@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watchlist/Music.md",
+                "file": "Rough.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "62976f40212038bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Watchlist/Music.md",
+                "file": "Rough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watchlist/Music.md",
+                "file": "Rough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watchlist/Music.md"
+                "file": "Rough.md"
               }
             }
           }
@@ -149,8 +159,14 @@
   },
   "active": "7e23a2724d08ff0d",
   "lastOpenFiles": [
-    "Mehul/Karnot/Relocation.md",
+    "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
+    "Productivity/Workflow.md",
+    "Mehul/Karnot/Bridge/Starkgate bridge.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
     "Watchlist/Music.md",
+    "Mehul/Karnot/Relocation.md",
     "Watchlist",
     "Rough.md",
     "STRKFarm/Untitled.md",
@@ -171,15 +187,9 @@
     "Mehul/Karnot/Assignment.md",
     "Mehul/Karnot",
     "Excalidraw",
-    "Productivity/Workflow.md",
     "Productivity/Fonts.md",
     "Untitled 4.md",
     "Raveena/Router Protocol/Router Protocol Docs.md",
-    "Mehul/Daily/26-05-2024.md",
-    "Productivity/i3-config.md",
-    "Productivity/i3.md",
-    "Uniswap/Automated.md",
-    "Raveena/Router Protocol/Casper.md",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",
