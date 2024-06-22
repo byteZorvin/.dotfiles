@@ -3,6 +3,9 @@ live_config_reload = true
 # [env]
 # TERM = "xterm-256color"
 
+[env]
+TERM = "alacritty-direct"
+
 [window]
 # padding.x = 10
 # padding.y = 10
