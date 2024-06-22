@@ -150,7 +150,7 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # This for persisting key remaps
-xmodmap ~/.Xmodmap  
+# xmodmap ~/.Xmodmap  
 
 # fzf setup
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
@@ -164,7 +164,7 @@ xmodmap ~/.Xmodmap
 # # zsh-autosuggestions end
 
 # For getting installation hints like bash in zsh
-source /etc/zsh_command_not_found
+# source /etc/zsh_command_not_found
 
 . "$HOME/.asdf/asdf.sh"
 
