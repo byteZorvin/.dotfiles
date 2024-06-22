@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "62976f40212038bf",
+            "id": "7cdc78238c7acff7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md"
+                "file": "STRKFarm/Buying vs borrowing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough.md",
+                "file": "STRKFarm/Buying vs borrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough.md",
+                "file": "STRKFarm/Buying vs borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough.md"
+                "file": "STRKFarm/Buying vs borrowing.md"
               }
             }
           }
@@ -157,8 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e23a2724d08ff0d",
+  "active": "7cdc78238c7acff7",
   "lastOpenFiles": [
+    "Mehul/Karnot/karnot-bridges.md",
+    "Untitled 1.md",
+    "Rough.md",
+    "Mehul/Karnot/karnot-bridges",
     "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
     "Productivity/Workflow.md",
     "Mehul/Karnot/Bridge/Starkgate bridge.md",
@@ -168,7 +175,6 @@
     "Watchlist/Music.md",
     "Mehul/Karnot/Relocation.md",
     "Watchlist",
-    "Rough.md",
     "STRKFarm/Untitled.md",
     "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
     "STRKFarm/Pool investing.md",
@@ -188,8 +194,6 @@
     "Mehul/Karnot",
     "Excalidraw",
     "Productivity/Fonts.md",
-    "Untitled 4.md",
-    "Raveena/Router Protocol/Router Protocol Docs.md",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",
@@ -201,7 +205,6 @@
     "Pasted image 20240506123609.png",
     "Pasted image 20240506122321.png",
     "Pasted image 20240506121115.png",
-    "Markets",
     "Pasted image 20240502001358.png",
     "Untitled 1.canvas"
   ]

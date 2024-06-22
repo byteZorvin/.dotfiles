@@ -121,7 +121,7 @@ export NVM_DIR="$HOME/.nvm"
 . "$HOME/.cargo/env"
 
 # neovim start
-export PATH="/opt/nvim:$PATH"
+# export PATH="/opt/nvim:$PATH"
 # neovim end
 
 # zoxide start
