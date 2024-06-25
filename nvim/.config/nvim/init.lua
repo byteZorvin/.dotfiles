@@ -1,7 +1,5 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
--- bootstrap lazy.nvim, LazyVim and your plugins
-require("config.lazy")
 
 -- Set up lspconfig.
 local capabilities = require("cmp_nvim_lsp").default_capabilities()

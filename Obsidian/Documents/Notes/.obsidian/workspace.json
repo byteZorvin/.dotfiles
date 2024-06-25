@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af1ed800f110fcfd",
+        "id": "380e0718e2bdc51c",
         "type": "tabs",
         "children": [
           {
-            "id": "7e23a2724d08ff0d",
+            "id": "5e9b88149fd0986d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity/True Colors.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Productivity/True Colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Productivity/True Colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Productivity/True Colors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,38 +139,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e23a2724d08ff0d",
+  "active": "5e9b88149fd0986d",
   "lastOpenFiles": [
-    "Rough.md",
-    "Productivity/Vimium.md",
-    "Productivity/True Colors.md",
-    "Productivity/Tmux.md",
-    "STRKFarm/Buying vs borrowing.md",
+    "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
+    "Untitled.canvas",
+    "Mehul/Karnot/Bridge/Bridge questions.md",
+    "Raveena/Router Protocol/Router Protocol Docs.md",
     "Mehul/Karnot/karnot-bridges.md",
-    "Untitled 1.md",
-    "Mehul/Karnot/karnot-bridges",
-    "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
-    "Productivity/Workflow.md",
     "Mehul/Karnot/Bridge/Starkgate bridge.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
-    "Watchlist/Music.md",
-    "Mehul/Karnot/Relocation.md",
+    "Mehul/Karnot/Cairo-lang.md",
+    "().md",
+    "Mehul/Daily/24-06-2024.md",
+    "Mehul/Daily/30-04-2024.md",
+    "Productivity/Neovim Commands.md",
+    "Raveena/Router Protocol/Router Name Service/Transactions Information.md",
+    "Raveena/Router Protocol/Router Name Service/RNS.md",
+    "Raveena/Router Protocol/Router Name Service/RNS Workflow.md",
+    "Raveena/Router Protocol/Starknet.md",
+    "Raveena/Router Protocol/Router Name Service",
+    "Raveena/Router Protocol/POC for Gateway contracts.md",
+    "Raveena/Router Protocol/Orch Agent.md",
+    "Raveena/Router Protocol/Noble and Multisig.md",
+    "Raveena/Router Protocol/NEAR Contracts.md",
+    "Raveena/Router Protocol/ERC404.md",
+    "Raveena/Router Protocol/Docker Installation.md",
+    "Raveena/Router Protocol/Casper.md",
+    "Raveena/Router Protocol/Asset Bridge Testing.md",
+    "Raveena/Router Protocol",
+    "Raveena/Farewell.md",
+    "Raveena/2024-05-23.md",
+    "Raveena/2024-05-08.md",
+    "Raveena/2024-03-24.md",
+    "Raveena",
+    "Mehul/Karnot/karnot-bridges",
     "Watchlist",
-    "STRKFarm/Untitled.md",
-    "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
-    "STRKFarm/Pool investing.md",
-    "Mehul/Venkat.md",
-    "Mehul/Weekly/05-06-2024.md",
-    "Mehul/Karnot/Interview Prep.md",
     "Mehul/Weekly",
-    "Mehul/Daily/05-06-2024.md",
-    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
-    "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
-    "Productivity/Desktop Setup.md",
-    "Productivity/Display.md",
     "Mehul/Karnot",
     "Excalidraw",
     "Pasted image 20240521182121.png",
@@ -187,9 +182,6 @@
     "Pasted image 20240215202601.png",
     "STRKFarm",
     "Vision/Short term",
-    "Vision/Long term",
-    "Vision",
-    "Business Ideas",
     "Pasted image 20240506123609.png",
     "Pasted image 20240506122321.png",
     "Pasted image 20240506121115.png",
