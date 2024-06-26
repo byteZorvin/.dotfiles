@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "380e0718e2bdc51c",
+        "id": "9c99551c8e906a31",
         "type": "tabs",
         "children": [
           {
-            "id": "5e9b88149fd0986d",
+            "id": "8b7327c0d05e3e08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mehul/Daily/25-06-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754
+    "width": 306.5019874572754,
+    "collapsed": true
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mehul/Daily/25-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mehul/Daily/25-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mehul/Daily/25-06-2024.md"
+              }
             }
           }
         ]
@@ -139,42 +149,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e9b88149fd0986d",
+  "active": "8b7327c0d05e3e08",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
-    "Untitled.canvas",
+    "Mehul/Daily/26-06-2024.md",
+    "Mehul/Karnot/Bridge/Architecture.md",
+    "Mehul/Daily/25-06-2024.md",
     "Mehul/Karnot/Bridge/Bridge questions.md",
+    "Excalidraw/Drawing 2024-06-25 16.19.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
+    "().md",
+    "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
+    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-25 16.37.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
+    "Business Ideas/Domain Arbitrage.md",
+    "Upgradability Implementation Notes.md",
+    "Natural Scrolling.md",
+    "Mehul/Karnot/Bridge/Starkgate bridge.md",
+    "Mehul/Daily/24-06-2024.md",
+    "Untitled 6.md",
+    "Raveena/2024-06-24.md",
+    "Untitled.canvas",
     "Raveena/Router Protocol/Router Protocol Docs.md",
     "Mehul/Karnot/karnot-bridges.md",
-    "Mehul/Karnot/Bridge/Starkgate bridge.md",
     "Mehul/Karnot/Cairo-lang.md",
-    "().md",
-    "Mehul/Daily/24-06-2024.md",
     "Mehul/Daily/30-04-2024.md",
-    "Productivity/Neovim Commands.md",
-    "Raveena/Router Protocol/Router Name Service/Transactions Information.md",
-    "Raveena/Router Protocol/Router Name Service/RNS.md",
-    "Raveena/Router Protocol/Router Name Service/RNS Workflow.md",
-    "Raveena/Router Protocol/Starknet.md",
     "Raveena/Router Protocol/Router Name Service",
-    "Raveena/Router Protocol/POC for Gateway contracts.md",
-    "Raveena/Router Protocol/Orch Agent.md",
-    "Raveena/Router Protocol/Noble and Multisig.md",
-    "Raveena/Router Protocol/NEAR Contracts.md",
-    "Raveena/Router Protocol/ERC404.md",
-    "Raveena/Router Protocol/Docker Installation.md",
-    "Raveena/Router Protocol/Casper.md",
-    "Raveena/Router Protocol/Asset Bridge Testing.md",
     "Raveena/Router Protocol",
-    "Raveena/Farewell.md",
-    "Raveena/2024-05-23.md",
-    "Raveena/2024-05-08.md",
-    "Raveena/2024-03-24.md",
     "Raveena",
     "Mehul/Karnot/karnot-bridges",
     "Watchlist",
     "Mehul/Weekly",
-    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
     "Mehul/Karnot",
     "Excalidraw",
     "Pasted image 20240521182121.png",

@@ -130,11 +130,11 @@ export NVM_DIR="$HOME/.nvm"
 # zoxide end
 
 # pnpm
-export PNPM_HOME="/home/bytezorvin/.local/share/pnpm"
-case ":$PATH:" in
-  ":$PNPM_HOME:") ;;
-  *) export PATH="$PNPM_HOME:$PATH" ;;
-esac
+# export PNPM_HOME="/home/bytezorvin/.local/share/pnpm"
+# case ":$PATH:" in
+#   ":$PNPM_HOME:") ;;
+#   *) export PATH="$PNPM_HOME:$PATH" ;;
+# esac
 # pnpm end
 
 export PATH="$PATH:/home/bytezorvin/.foundry/bin"
@@ -143,6 +143,10 @@ export PATH="$PATH:/home/bytezorvin/.foundry/bin"
 # Git aliases
 alias gp="git pull"
 alias gs="git status"
+
+# lazygit 
+alias lg="lazygit"
+alias ld="lazydocker"
 
 # some more ls aliases
 alias ll='ls -alF'
@@ -173,3 +177,4 @@ fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 
 # . "/home/bytezorvin/.starkli/env"
+. "/Users/bytezorvin/.starkli/env"
