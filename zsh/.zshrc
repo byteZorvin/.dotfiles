@@ -147,6 +147,7 @@ alias gs="git status"
 # lazygit 
 alias lg="lazygit"
 alias ld="lazydocker"
+alias pn="pnpm"
 
 # some more ls aliases
 alias ll='ls -alF'
