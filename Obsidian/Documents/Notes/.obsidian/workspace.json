@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Daily/25-06-2024.md",
+                "file": "Mehul/Karnot/Scarb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea880a634ea5bdb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mehul/Daily/26-06-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "true colo",
+                "query": "scarb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754,
-    "collapsed": true
+    "width": 306.5019874572754
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Daily/25-06-2024.md",
+                "file": "Mehul/Daily/26-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Daily/25-06-2024.md",
+                "file": "Mehul/Daily/26-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Daily/25-06-2024.md"
+                "file": "Mehul/Daily/26-06-2024.md"
               }
             }
           }
@@ -149,11 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b7327c0d05e3e08",
+  "active": "ec41f3b99f222d3f",
   "lastOpenFiles": [
+    "Mehul/Daily/01-07-2024.md",
     "Mehul/Daily/26-06-2024.md",
-    "Mehul/Karnot/Bridge/Architecture.md",
     "Mehul/Daily/25-06-2024.md",
+    "Mehul/Daily/24-06-2024.md",
+    "Mehul/Daily/05-06-2024.md",
+    "Mehul/Karnot/Scarb.md",
+    "Move out/Checklist.md",
+    "Upgradability Implementation Notes.md",
+    "Mehul/Karnot/Practice.md",
+    "Move out",
+    "Move out.md",
+    "Mehul/Karnot/Getting in/Assignment.md",
+    "Vision/The cult of done.md",
+    "Vision/Long term/What to do?.md",
+    "Mehul/Karnot/Bridge/Architecture.md",
     "Mehul/Karnot/Bridge/Bridge questions.md",
     "Excalidraw/Drawing 2024-06-25 16.19.46.excalidraw.md",
     "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
@@ -167,18 +190,7 @@
     "Excalidraw/Drawing 2024-06-25 16.37.30.excalidraw.md",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
     "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
-    "Business Ideas/Domain Arbitrage.md",
-    "Upgradability Implementation Notes.md",
-    "Natural Scrolling.md",
-    "Mehul/Karnot/Bridge/Starkgate bridge.md",
-    "Mehul/Daily/24-06-2024.md",
-    "Untitled 6.md",
-    "Raveena/2024-06-24.md",
     "Untitled.canvas",
-    "Raveena/Router Protocol/Router Protocol Docs.md",
-    "Mehul/Karnot/karnot-bridges.md",
-    "Mehul/Karnot/Cairo-lang.md",
-    "Mehul/Daily/30-04-2024.md",
     "Raveena/Router Protocol/Router Name Service",
     "Raveena/Router Protocol",
     "Raveena",
@@ -191,7 +203,6 @@
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",
     "STRKFarm",
-    "Vision/Short term",
     "Pasted image 20240506123609.png",
     "Pasted image 20240506122321.png",
     "Pasted image 20240506121115.png",
