@@ -1,0 +1,46 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\nunmap L\nunmap H\n\nmap <c-o> goBack\nmap <c-i> goForward",
+  "settingsVersion": "2.1.2",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://mail.google.com/*"
+    },
+    {
+      "passKeys": "/",
+      "pattern": "https?://www.google.com/search?*"
+    },
+    {
+      "passKeys": "j",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": "k",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": "l",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": "h",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": "f",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": ">",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": "<",
+      "pattern": "https?://www.youtube.com/watch*"
+    },
+    {
+      "passKeys": "/",
+      "pattern": "https?://www.youtube.com/*"
+    }
+  ]
+}
