@@ -5,6 +5,12 @@
         "Mod"
       ],
       "key": "I"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
     }
   ],
   "editor:toggle-italics": [
@@ -20,6 +26,12 @@
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
       ],
       "key": "O"
     }

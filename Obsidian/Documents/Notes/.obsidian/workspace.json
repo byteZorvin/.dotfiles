@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "scarb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,23 +182,7 @@
     "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
     "().md",
     "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
-    "Productivity/Workflow.md",
-    "Mehul/Karnot/Bridge/Starkgate bridge.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
-    "Watchlist/Music.md",
-    "Mehul/Karnot/Relocation.md",
-    "Watchlist",
-    "STRKFarm/Untitled.md",
     "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
-    "STRKFarm/Pool investing.md",
-    "Mehul/Venkat.md",
-    "Mehul/Weekly/05-06-2024.md",
-    "Mehul/Karnot/Interview Prep.md",
-    "Mehul/Weekly",
-    "Mehul/Daily/05-06-2024.md",
-    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
     "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
     "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
@@ -214,15 +199,10 @@
     "Mehul/Weekly",
     "Mehul/Karnot",
     "Excalidraw",
-    "Productivity/Fonts.md",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",
     "STRKFarm",
-    "Vision/Short term",
-    "Vision/Long term",
-    "Vision",
-    "Business Ideas",
     "Pasted image 20240506123609.png",
     "Pasted image 20240506122321.png",
     "Pasted image 20240506121115.png",
