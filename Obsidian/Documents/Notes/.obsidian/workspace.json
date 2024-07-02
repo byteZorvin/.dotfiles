@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "af1ed800f110fcfd",
+        "id": "9c99551c8e906a31",
         "type": "tabs",
         "children": [
           {
-            "id": "7e23a2724d08ff0d",
+            "id": "8b7327c0d05e3e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough.md",
+                "file": "Mehul/Karnot/Scarb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7cdc78238c7acff7",
+            "id": "ea880a634ea5bdb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STRKFarm/Buying vs borrowing.md",
+                "file": "Mehul/Daily/26-06-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "scarb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STRKFarm/Buying vs borrowing.md",
+                "file": "Mehul/Daily/26-06-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STRKFarm/Buying vs borrowing.md",
+                "file": "Mehul/Daily/26-06-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STRKFarm/Buying vs borrowing.md"
+                "file": "Mehul/Daily/26-06-2024.md"
               }
             }
           }
@@ -160,48 +160,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cdc78238c7acff7",
+  "active": "ec41f3b99f222d3f",
   "lastOpenFiles": [
-    "Mehul/Karnot/karnot-bridges.md",
-    "Untitled 1.md",
-    "Rough.md",
-    "Mehul/Karnot/karnot-bridges",
-    "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
-    "Productivity/Workflow.md",
-    "Mehul/Karnot/Bridge/Starkgate bridge.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
-    "Watchlist/Music.md",
-    "Mehul/Karnot/Relocation.md",
-    "Watchlist",
-    "STRKFarm/Untitled.md",
-    "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
-    "STRKFarm/Pool investing.md",
-    "Mehul/Venkat.md",
-    "Mehul/Weekly/05-06-2024.md",
-    "Mehul/Karnot/Interview Prep.md",
-    "Mehul/Weekly",
+    "Mehul/Daily/01-07-2024.md",
+    "Mehul/Daily/26-06-2024.md",
+    "Mehul/Daily/25-06-2024.md",
+    "Mehul/Daily/24-06-2024.md",
     "Mehul/Daily/05-06-2024.md",
-    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
+    "Mehul/Karnot/Scarb.md",
+    "Move out/Checklist.md",
+    "Upgradability Implementation Notes.md",
+    "Mehul/Karnot/Practice.md",
+    "Move out",
+    "Move out.md",
+    "Mehul/Karnot/Getting in/Assignment.md",
+    "Vision/The cult of done.md",
+    "Vision/Long term/What to do?.md",
+    "Mehul/Karnot/Bridge/Architecture.md",
+    "Mehul/Karnot/Bridge/Bridge questions.md",
+    "Excalidraw/Drawing 2024-06-25 16.19.46.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
+    "().md",
+    "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
+    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-25 16.37.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
     "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
-    "Productivity/Desktop Setup.md",
-    "Productivity/Display.md",
-    "Natural Scrolling.md",
-    "Mehul/Karnot/Solution.md",
-    "Mehul/Karnot/Assignment.md",
+    "Untitled.canvas",
+    "Raveena/Router Protocol/Router Name Service",
+    "Raveena/Router Protocol",
+    "Raveena",
+    "Mehul/Karnot/karnot-bridges",
+    "Watchlist",
+    "Mehul/Weekly",
     "Mehul/Karnot",
     "Excalidraw",
-    "Productivity/Fonts.md",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",
     "STRKFarm",
-    "Vision/Short term",
-    "Vision/Long term",
-    "Vision",
-    "Business Ideas",
     "Pasted image 20240506123609.png",
     "Pasted image 20240506122321.png",
     "Pasted image 20240506121115.png",

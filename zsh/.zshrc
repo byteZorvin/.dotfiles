@@ -130,11 +130,11 @@ export NVM_DIR="$HOME/.nvm"
 # zoxide end
 
 # pnpm
-export PNPM_HOME="/home/bytezorvin/.local/share/pnpm"
-case ":$PATH:" in
-  ":$PNPM_HOME:") ;;
-  *) export PATH="$PNPM_HOME:$PATH" ;;
-esac
+# export PNPM_HOME="/home/bytezorvin/.local/share/pnpm"
+# case ":$PATH:" in
+#   ":$PNPM_HOME:") ;;
+#   *) export PATH="$PNPM_HOME:$PATH" ;;
+# esac
 # pnpm end
 
 export PATH="$PATH:/home/bytezorvin/.foundry/bin"
@@ -144,13 +144,18 @@ export PATH="$PATH:/home/bytezorvin/.foundry/bin"
 alias gp="git pull"
 alias gs="git status"
 
+# lazygit 
+alias lg="lazygit"
+alias ld="lazydocker"
+alias pn="pnpm"
+
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
 # This for persisting key remaps
-xmodmap ~/.Xmodmap  
+# xmodmap ~/.Xmodmap  
 
 # fzf setup
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
@@ -164,7 +169,7 @@ xmodmap ~/.Xmodmap
 # # zsh-autosuggestions end
 
 # For getting installation hints like bash in zsh
-source /etc/zsh_command_not_found
+# source /etc/zsh_command_not_found
 
 . "$HOME/.asdf/asdf.sh"
 
@@ -173,3 +178,4 @@ fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 
 # . "/home/bytezorvin/.starkli/env"
+. "/Users/bytezorvin/.starkli/env"

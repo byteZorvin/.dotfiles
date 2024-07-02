@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
 # Remapping the caps to control
-setxkbmap -option caps:ctrl_modifier
+# setxkbmap -option caps:ctrl_modifier
 
 addToPath() {
     if [[ "$PATH" != *"$1"* ]]; then
