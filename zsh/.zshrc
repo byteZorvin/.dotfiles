@@ -154,6 +154,10 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+
+# cairo alias
+alias snft='snforge test'
+
 # This for persisting key remaps
 # xmodmap ~/.Xmodmap  
 

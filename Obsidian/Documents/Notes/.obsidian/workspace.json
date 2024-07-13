@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9c99551c8e906a31",
+        "id": "867b4f86414da821",
         "type": "tabs",
         "children": [
           {
-            "id": "8b7327c0d05e3e08",
+            "id": "e508ad56bcbf9914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Karnot/Scarb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea880a634ea5bdb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mehul/Daily/26-06-2024.md",
+                "file": "Watchlist/Blockchain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Daily/26-06-2024.md",
+                "file": "Watchlist/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Daily/26-06-2024.md",
+                "file": "Watchlist/Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Daily/26-06-2024.md"
+                "file": "Watchlist/Blockchain.md"
               }
             }
           }
@@ -160,37 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec41f3b99f222d3f",
+  "active": "e508ad56bcbf9914",
   "lastOpenFiles": [
-    "Mehul/Daily/01-07-2024.md",
-    "Mehul/Daily/26-06-2024.md",
-    "Mehul/Daily/25-06-2024.md",
-    "Mehul/Daily/24-06-2024.md",
-    "Mehul/Daily/05-06-2024.md",
-    "Mehul/Karnot/Scarb.md",
-    "Move out/Checklist.md",
-    "Upgradability Implementation Notes.md",
-    "Mehul/Karnot/Practice.md",
-    "Move out",
-    "Move out.md",
-    "Mehul/Karnot/Getting in/Assignment.md",
-    "Vision/The cult of done.md",
-    "Vision/Long term/What to do?.md",
-    "Mehul/Karnot/Bridge/Architecture.md",
-    "Mehul/Karnot/Bridge/Bridge questions.md",
-    "Excalidraw/Drawing 2024-06-25 16.19.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-24 20.28.05.excalidraw.md",
-    "().md",
-    "Excalidraw/Drawing 2024-06-19 20.20.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-09 22.29.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
-    "Excalidraw/Drawing 2024-06-19 11.43.21.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 11.43.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-25 16.37.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-31 19.11.25.excalidraw.md",
+    "Mehul/Daily/12-07-2024.md",
+    "Mehul/Daily/11-07-2024.md",
+    "Watchlist/Blockchain.md",
+    "kzg trusted setup ceremonies.md",
+    "Untitled.md",
+    "Progcrypto.md",
+    "Upcoming Events.md",
     "Untitled.canvas",
+    "Autonomous worlds assembly.md",
+    "Watchlist/Untitled.md",
+    "Watchlist/Music.md",
+    "Mehul/Daily/03-07-2024.md",
+    "Mehul/Daily/01-07-2024.md",
+    "Mehul/Karnot/Bridge/Pessimistic proofs.md",
+    "Mehul/Karnot/Bridge/karnot-bridges.md",
+    "Mehul/Karnot/Starknet State.md",
+    "Mehul/Karnot/Starknet Core Contract.md",
+    "Mehul/Karnot/Cairo-lang.md",
+    "Mehul/Karnot/Practice.md",
+    "Mehul/Karnot/Sn_forge test.md",
+    "Mehul/Karnot/Bridge/Starkgate bridge.md",
+    "Mehul/Karnot/Bridge/Architecture.md",
+    "Excalidraw/Starkgate Bridge.md",
+    "Mehul/Daily/26-06-2024.md",
+    "Productivity/Neovim Macros.md",
+    "Excalidraw/Drawing 2024-07-03 17.31.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-03 17.01.47.excalidraw.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Move out",
+    "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
     "Raveena/Router Protocol/Router Name Service",
     "Raveena/Router Protocol",
     "Raveena",
