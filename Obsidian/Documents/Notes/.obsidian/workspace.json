@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "867b4f86414da821",
+        "id": "74c1a6dbe6441c56",
         "type": "tabs",
         "children": [
           {
-            "id": "e508ad56bcbf9914",
+            "id": "6a42048eb72fb62a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-31 12.33.22.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ad839762b687e294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watchlist/Blockchain.md",
+                "file": "Mehul/Daily/05-08-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scarb",
+                "query": "set appchain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Watchlist/Blockchain.md",
+                "file": "Mehul/Daily/05-08-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watchlist/Blockchain.md",
+                "file": "Mehul/Daily/05-08-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watchlist/Blockchain.md"
+                "file": "Mehul/Daily/05-08-2024.md"
               }
             }
           }
@@ -147,35 +158,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e508ad56bcbf9914",
+  "active": "ad839762b687e294",
   "lastOpenFiles": [
-    "Mehul/Daily/12-07-2024.md",
-    "Mehul/Daily/11-07-2024.md",
-    "Watchlist/Blockchain.md",
-    "kzg trusted setup ceremonies.md",
-    "Untitled.md",
-    "Progcrypto.md",
-    "Upcoming Events.md",
-    "Untitled.canvas",
-    "Autonomous worlds assembly.md",
-    "Watchlist/Untitled.md",
-    "Watchlist/Music.md",
-    "Mehul/Daily/03-07-2024.md",
-    "Mehul/Daily/01-07-2024.md",
-    "Mehul/Karnot/Bridge/Pessimistic proofs.md",
-    "Mehul/Karnot/Bridge/karnot-bridges.md",
-    "Mehul/Karnot/Starknet State.md",
-    "Mehul/Karnot/Starknet Core Contract.md",
-    "Mehul/Karnot/Cairo-lang.md",
-    "Mehul/Karnot/Practice.md",
-    "Mehul/Karnot/Sn_forge test.md",
+    "Mehul/Daily/06-08-2024.md",
+    "Mehul/Daily/05-08-2024.md",
+    "Mehul/Daily/03-08-2024.md",
+    "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
+    "Mehul/Karnot/Bridge/Bridge questions.md",
+    "Presentations.md",
+    "Mehul/Daily/02-08-2024.md",
     "Mehul/Karnot/Bridge/Starkgate bridge.md",
+    "Excalidraw/Drawing 2024-07-31 12.33.22.excalidraw.md",
+    "RFX/Common pool.md",
+    "RFX/intro.md",
+    "Mehul/Karnot/Bridge/Tests.md",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
     "Mehul/Karnot/Bridge/Architecture.md",
-    "Excalidraw/Starkgate Bridge.md",
-    "Mehul/Daily/26-06-2024.md",
-    "Productivity/Neovim Macros.md",
-    "Excalidraw/Drawing 2024-07-03 17.31.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-03 17.01.47.excalidraw.md",
+    "Mehul/Karnot/Bridge/Withdraw limit library.md",
+    "Mehul/Daily/29-07-2024.md",
+    "Mehul/Karnot/Cairo-lang.md",
+    "Work/NibiDEX/Fee.md",
+    "Watchlist/Blockchain.md",
+    "Watchlist/Music.md",
+    "Uniswap/Products around Uni.md",
+    "Uniswap/Automated.md",
+    "Uniswap/02-05-2024.md",
+    "STRKFarm/Untitled.md",
+    "STRKFarm/Pool investing.md",
+    "STRKFarm/Delta Neutral.md",
+    "STRKFarm/Buying vs borrowing.md",
+    "Untitled.canvas",
+    "RFX",
+    "Mehul/karnot/Bridge",
+    "Mehul/Karnot/Cairo",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Move out",
@@ -186,12 +202,9 @@
     "Mehul/Karnot/karnot-bridges",
     "Watchlist",
     "Mehul/Weekly",
-    "Mehul/Karnot",
-    "Excalidraw",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",
-    "STRKFarm",
     "Pasted image 20240506123609.png",
     "Pasted image 20240506122321.png",
     "Pasted image 20240506121115.png",

@@ -11,6 +11,9 @@ TERM = "alacritty-direct"
 # padding.y = 10
 # opacity = 0.95
 title = "Alacritty"
+# This disables some keybindings should use the keybiding way
+# But could not get it work now
+option_as_alt="Both" 
 
 [font.normal]
 family = "FiraCode Nerd Font"
@@ -21,5 +24,6 @@ hide_when_typing = true
 
 [keyboard]
 bindings = [
-{ key = "F11", action = "ToggleFullscreen" }
+{ key = "F11", action = "ToggleFullscreen" },
+# { key = "J", mode="Alt", chars="\u006A"}
 ]
