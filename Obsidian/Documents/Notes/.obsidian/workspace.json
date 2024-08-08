@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a42048eb72fb62a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-31 12.33.22.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "ad839762b687e294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Daily/05-08-2024.md",
+                "file": "Watchlist/Music.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Daily/05-08-2024.md",
+                "file": "Watchlist/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Daily/05-08-2024.md",
+                "file": "Watchlist/Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Daily/05-08-2024.md"
+                "file": "Watchlist/Music.md"
               }
             }
           }
@@ -160,8 +149,8 @@
   },
   "active": "ad839762b687e294",
   "lastOpenFiles": [
-    "Mehul/Daily/06-08-2024.md",
     "Mehul/Daily/05-08-2024.md",
+    "Mehul/Daily/06-08-2024.md",
     "Mehul/Daily/03-08-2024.md",
     "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
     "Mehul/Karnot/Bridge/Bridge questions.md",
