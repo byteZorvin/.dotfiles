@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Watchlist/Music.md",
+                "file": "Mehul/Karnot/Benchmark.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "259d42fcd495debd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-15 14.38.45_0.excalidraw.md"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set appchain",
+                "query": "devcon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +75,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754
+    "width": 306.5019874572754,
+    "collapsed": true
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Watchlist/Music.md",
+                "file": "Mehul/Karnot/Benchmark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Watchlist/Music.md",
+                "file": "Mehul/Karnot/Benchmark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Watchlist/Music.md"
+                "file": "Mehul/Karnot/Benchmark.md"
               }
             }
           }
@@ -147,20 +159,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad839762b687e294",
+  "active": "89208fb2002d823e",
   "lastOpenFiles": [
+    "Upcoming Events.md",
+    "Mehul/Karnot/Benchmark.md",
+    "RFX/intro.md",
+    "Pasted image 20240813160323.png",
+    "Pasted image 20240813160124.png",
+    "Excalidraw/Drawing 2024-08-06 17.06.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-15 14.38.45_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-15 14.38.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-15 14.38.43.excalidraw.md",
+    "Untitled 6.canvas",
+    "Business Ideas/Domain Arbitrage.md",
+    "Mehul/Daily/12-08-2024.md",
+    "Excalidraw/Untitled",
+    "Mehul/Karnot/Bridge/Tests.md",
+    "Mehul/Karnot/Bridge/Bridge questions.md",
+    "Watchlist/Music.md",
     "Mehul/Daily/05-08-2024.md",
     "Mehul/Daily/06-08-2024.md",
     "Mehul/Daily/03-08-2024.md",
     "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
-    "Mehul/Karnot/Bridge/Bridge questions.md",
     "Presentations.md",
     "Mehul/Daily/02-08-2024.md",
     "Mehul/Karnot/Bridge/Starkgate bridge.md",
     "Excalidraw/Drawing 2024-07-31 12.33.22.excalidraw.md",
     "RFX/Common pool.md",
-    "RFX/intro.md",
-    "Mehul/Karnot/Bridge/Tests.md",
     "Untitled 5.canvas",
     "Untitled 4.canvas",
     "Mehul/Karnot/Bridge/Architecture.md",
@@ -168,15 +193,6 @@
     "Mehul/Daily/29-07-2024.md",
     "Mehul/Karnot/Cairo-lang.md",
     "Work/NibiDEX/Fee.md",
-    "Watchlist/Blockchain.md",
-    "Watchlist/Music.md",
-    "Uniswap/Products around Uni.md",
-    "Uniswap/Automated.md",
-    "Uniswap/02-05-2024.md",
-    "STRKFarm/Untitled.md",
-    "STRKFarm/Pool investing.md",
-    "STRKFarm/Delta Neutral.md",
-    "STRKFarm/Buying vs borrowing.md",
     "Untitled.canvas",
     "RFX",
     "Mehul/karnot/Bridge",
@@ -190,7 +206,6 @@
     "Raveena",
     "Mehul/Karnot/karnot-bridges",
     "Watchlist",
-    "Mehul/Weekly",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Pasted image 20240215202601.png",

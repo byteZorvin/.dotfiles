@@ -19,4 +19,8 @@ bindkey -v
 bindkey -s ^f "tmux-sessionizer\n"
 
 
+# zsh
+source <(fzf --zsh)
+
+
 
