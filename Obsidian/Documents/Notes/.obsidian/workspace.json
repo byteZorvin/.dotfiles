@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1eb0b49d1870a18e",
+        "id": "ad2b81b51237b54a",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac997888af49b45",
+            "id": "425c45f4fad8bafa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mehul/Karnot/Integrity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Engineering",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754,
-    "collapsed": true
+    "width": 306.5019874572754
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -86,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Karnot/Integrity.md",
+                "file": "Uniswap/02-05-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Karnot/Integrity.md",
+                "file": "Uniswap/02-05-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +122,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Karnot/Integrity.md"
+                "file": "Uniswap/02-05-2024.md"
               }
             }
+          },
+          {
+            "id": "c818a0c1832cfac3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,6 +144,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -148,34 +154,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ac997888af49b45",
+  "active": "89208fb2002d823e",
   "lastOpenFiles": [
-    "Mehul/Karnot/Integrity study.md",
-    "Mehul/Karnot/Integrity.md",
+    "Mehul/Karnot/Proofs-Verification/Verification.md",
+    "Mehul/Karnot/Proofs-Verification/Proofs on Starknet.md",
+    "Mehul/Karnot/Proofs-Verification/Integrity study.md",
+    "Mehul/Karnot/Benchmark.md",
+    "Starks/Bootcamp.md",
+    "Move out/Checklist.md",
+    "Mehul/Karnot/Proofs-Verification/Stone.md",
+    "Mehul/Karnot/L1 L2 Messaging.md",
+    "Mehul/Karnot/Bootloader.md",
+    "Mehul/Karnot/Proofs-Verification/Integrity.md",
+    "Mehul/Karnot/Proofs-Verification",
+    "Eth singapore/Projects Ideas.md",
     "Mehul/Karnot/Starknet Core Contract.md",
-    "Mehul/Karnot/Cairo.md",
-    "Productivity/Workflow.md",
-    "Productivity/Desktop Entries.md",
-    "Excalidraw/update state.md",
-    "Excalidraw/Drawing 2024-08-15 14.38.45_0.excalidraw.md",
-    "RFX/intro.md",
-    "Mehul/Zk Applications.md",
-    "Excalidraw/Drawing 2024-07-31 12.33.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-26 18.33.20.excalidraw.md",
-    "Excalidraw/starknet l2 flow.md",
-    "Mehul/Karnot/Getting in/Solution.md",
-    "Mehul/Karnot/Bridge/Tests.md",
-    "Mehul/Karnot/Bridge/Deactivation and Blocking.md",
-    "Mehul/Karnot/Bridge/Bridge questions.md",
-    "Excalidraw/Drawing 2024-08-26 21.30.04.excalidraw.md",
-    "Excalidraw/Starkgate Bridge.md",
-    "Mehul/Karnot/Starknet OS.md",
-    "Mehul/Obsidian Hacks.md",
-    "Mehul/Karnot/Cairo-lang.md",
-    "Mehul/Karnot/Bridge/Pessimistic proofs.md",
-    "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
-    "Mehul/Karnot/Bridge/Architecture.md",
-    "Excalidraw/Drawing 2024-08-20 21.30.20.excalidraw.md",
+    "Eth singapore",
+    "Starks/Bootcamp/Part 1.md",
+    "Mehul/Daily/05-09-2024.md",
+    "Mehul/Daily/02-09-2024.md",
+    "Mehul/Daily/30-08-2024.md",
+    "Mehul/Daily/30-03-2024.md",
+    "Mehul/Daily/29-07-2024.md",
+    "Mehul/Daily/28-02-2024.md",
+    "Mehul/Daily/28-03-2024.md",
+    "Mehul/Daily/28-01-2024.md",
+    "Mehul/Daily/27-03-2024.md",
+    "Mehul/Daily/26-08-2024.md",
+    "Mehul/Daily/26-06-2024.md",
+    "Mehul/Daily/26-05-2024.md",
+    "Mehul/Daily/25-06-2024.md",
+    "Starks/Bootcamp",
+    "Starks",
     "Excalidraw/updateState.excalidraw",
     "updateState.excalidraw",
     "Untitled 7.canvas",
@@ -196,11 +206,7 @@
     "Mehul/Karnot/Cairo",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Move out",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
-    "Raveena/Router Protocol/Router Name Service",
-    "Raveena/Router Protocol",
-    "Raveena",
     "Pasted image 20240521182121.png",
     "Pasted image 20240521182014.png",
     "Untitled 1.canvas"

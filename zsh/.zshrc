@@ -154,6 +154,9 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# prettier
+alias pf='npx prettier . --write'
+
 
 # cairo alias
 alias snft='snforge test'
