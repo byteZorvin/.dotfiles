@@ -186,3 +186,4 @@ fpath=(${ASDF_DIR}/completions $fpath)
 
 # . "/home/bytezorvin/.starkli/env"
 . "/Users/bytezorvin/.starkli/env"
+export PATH="/opt/homebrew/opt/m4/bin:$PATH"
