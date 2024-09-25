@@ -11,8 +11,12 @@
             "id": "425c45f4fad8bafa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mehul/Daily/24-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "asdf list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754
+    "width": 306.5019874572754,
+    "collapsed": true
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniswap/02-05-2024.md",
+                "file": "Mehul/Daily/24-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniswap/02-05-2024.md",
+                "file": "Mehul/Daily/24-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniswap/02-05-2024.md"
+                "file": "Mehul/Daily/24-09-2024.md"
               }
             }
           },
@@ -154,36 +158,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89208fb2002d823e",
+  "active": "ec41f3b99f222d3f",
   "lastOpenFiles": [
+    "Mehul/Karnot/Scarb.md",
+    "Mehul/Daily/24-09-2024.md",
+    "Eth singapore/Projects Ideas.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2024-09-22 03.55.05.excalidraw.md",
+    "Battery.md",
+    "Eth singapore/Mev.md",
+    "Work/BabyWolfie/BabyWolfie.md",
+    "Mehul/Karnot/Getting in/Assignment.md",
+    "Mehul/Daily/26-08-2024.md",
+    "Mehul/Karnot/Benchmark.md",
+    "Mehul/Karnot/Bootloader.md",
+    "Mehul/Karnot/Cairo.md",
+    "Mehul/Karnot/Cairo-lang.md",
+    "Mehul/Karnot/Piltover.md",
+    "Mehul/Karnot/Tx Parallelization.md",
+    "Mehul/Karnot/Starknet State.md",
+    "Mehul/Karnot/Starknet OS.md",
+    "Mehul/Karnot/Starknet Core Contract.md",
+    "Mehul/Karnot/Sn_forge test.md",
+    "Mehul/Daily/28-02-2024.md",
+    "Mehul/Daily/11-07-2024.md",
+    "Mehul/Daily/17-09-2024.md",
     "Mehul/Karnot/Proofs-Verification/Verification.md",
     "Mehul/Karnot/Proofs-Verification/Proofs on Starknet.md",
     "Mehul/Karnot/Proofs-Verification/Integrity study.md",
-    "Mehul/Karnot/Benchmark.md",
-    "Starks/Bootcamp.md",
-    "Move out/Checklist.md",
-    "Mehul/Karnot/Proofs-Verification/Stone.md",
-    "Mehul/Karnot/L1 L2 Messaging.md",
-    "Mehul/Karnot/Bootloader.md",
-    "Mehul/Karnot/Proofs-Verification/Integrity.md",
     "Mehul/Karnot/Proofs-Verification",
-    "Eth singapore/Projects Ideas.md",
-    "Mehul/Karnot/Starknet Core Contract.md",
     "Eth singapore",
-    "Starks/Bootcamp/Part 1.md",
-    "Mehul/Daily/05-09-2024.md",
-    "Mehul/Daily/02-09-2024.md",
-    "Mehul/Daily/30-08-2024.md",
-    "Mehul/Daily/30-03-2024.md",
-    "Mehul/Daily/29-07-2024.md",
-    "Mehul/Daily/28-02-2024.md",
-    "Mehul/Daily/28-03-2024.md",
-    "Mehul/Daily/28-01-2024.md",
-    "Mehul/Daily/27-03-2024.md",
-    "Mehul/Daily/26-08-2024.md",
-    "Mehul/Daily/26-06-2024.md",
-    "Mehul/Daily/26-05-2024.md",
-    "Mehul/Daily/25-06-2024.md",
     "Starks/Bootcamp",
     "Starks",
     "Excalidraw/updateState.excalidraw",
