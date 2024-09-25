@@ -20,6 +20,15 @@ return {
             features = { "testing" }, -- Replace "feat1" with your specific feature
             allFeatures = false, -- Disable all features by default
           },
+          inlayHints = {
+            enable = true, -- Enable inlay hints
+            typeHints = true, -- Enable type hints
+            chainingHints = true, -- Enable chaining hints
+            parameterHints = true, -- Enable parameter hints
+            closureReturnTypeHints = {
+              enable = true, -- Show return types of closures
+            },
+          },
           -- You can add more rust-analyzer settings here
         },
       },

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Daily/24-09-2024.md",
+                "file": "Mehul/Daily/25-09-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Daily/24-09-2024.md",
+                "file": "Mehul/Daily/25-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Daily/24-09-2024.md",
+                "file": "Mehul/Daily/25-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Daily/24-09-2024.md"
+                "file": "Mehul/Daily/25-09-2024.md"
               }
             }
           },
@@ -158,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec41f3b99f222d3f",
+  "active": "425c45f4fad8bafa",
   "lastOpenFiles": [
-    "Mehul/Karnot/Scarb.md",
     "Mehul/Daily/24-09-2024.md",
+    "Mehul/Daily/25-09-2024.md",
+    "Eth singapore/MEV-Engine.md",
+    "Mehul/Karnot/Scarb.md",
     "Eth singapore/Projects Ideas.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2024-09-22 03.55.05.excalidraw.md",
@@ -184,8 +186,6 @@
     "Mehul/Daily/11-07-2024.md",
     "Mehul/Daily/17-09-2024.md",
     "Mehul/Karnot/Proofs-Verification/Verification.md",
-    "Mehul/Karnot/Proofs-Verification/Proofs on Starknet.md",
-    "Mehul/Karnot/Proofs-Verification/Integrity study.md",
     "Mehul/Karnot/Proofs-Verification",
     "Eth singapore",
     "Starks/Bootcamp",
