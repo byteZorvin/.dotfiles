@@ -18,7 +18,7 @@ return {
           },
           cargo = {
             features = { "testing" }, -- Replace "feat1" with your specific feature
-            allFeatures = false, -- Disable all features by default
+            allFeatures = true, -- Disable all features by default
           },
           inlayHints = {
             enable = true, -- Enable inlay hints
