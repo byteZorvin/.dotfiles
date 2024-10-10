@@ -13,12 +13,15 @@ return {
       settings = {
         ["rust-analyzer"] = {
           checkOnSave = {
-            command = "clippy",
+            command = "check",
             extraArgs = { "--no-deps" }, -- Optional: add this if you don't want to check dependencies
           },
           cargo = {
-            features = { "testing" }, -- Replace "feat1" with your specific feature
-            allFeatures = true, -- Disable all features by default
+            -- features = { "testing" }, -- Replace "feat1" with your specific feature
+            allFeatures = true,
+          },
+          check = {
+            allTargets = true,
           },
           inlayHints = {
             enable = true, -- Enable inlay hints

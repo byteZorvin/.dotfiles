@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2b81b51237b54a",
+        "id": "b2eedc9e385a01e5",
         "type": "tabs",
         "children": [
           {
-            "id": "425c45f4fad8bafa",
+            "id": "d166fae1a3b067e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Daily/25-09-2024.md",
+                "file": "Battery.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asdf list",
+                "query": "mac ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754,
-    "collapsed": true
+    "width": 306.5019874572754
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mehul/Daily/25-09-2024.md",
+                "file": "Battery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Daily/25-09-2024.md",
+                "file": "Battery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Daily/25-09-2024.md"
+                "file": "Battery.md"
               }
             }
           },
@@ -158,34 +157,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "425c45f4fad8bafa",
+  "active": "d166fae1a3b067e1",
   "lastOpenFiles": [
-    "Mehul/Daily/24-09-2024.md",
-    "Mehul/Daily/25-09-2024.md",
-    "Eth singapore/MEV-Engine.md",
-    "Mehul/Karnot/Scarb.md",
-    "Eth singapore/Projects Ideas.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2024-09-22 03.55.05.excalidraw.md",
     "Battery.md",
-    "Eth singapore/Mev.md",
-    "Work/BabyWolfie/BabyWolfie.md",
-    "Mehul/Karnot/Getting in/Assignment.md",
-    "Mehul/Daily/26-08-2024.md",
-    "Mehul/Karnot/Benchmark.md",
-    "Mehul/Karnot/Bootloader.md",
-    "Mehul/Karnot/Cairo.md",
-    "Mehul/Karnot/Cairo-lang.md",
-    "Mehul/Karnot/Piltover.md",
-    "Mehul/Karnot/Tx Parallelization.md",
-    "Mehul/Karnot/Starknet State.md",
+    "conflict-files-obsidian-git.md",
+    "Markets/Blockchain.md",
+    "Pasted image 20241008160159.png",
+    "Mehul/Karnot/Proofs-Verification/Integrity study.md",
+    "Excalidraw/Update state and Hashes.md",
+    "Excalidraw/Drawing 2024-08-06 17.06.24.excalidraw.md",
+    "Excalidraw/Token Status flow in Bridge.md",
+    "Excalidraw/Drawing 2024-08-15 14.38.45_0.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-26 18.33.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-26 21.30.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-22 03.55.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-29 17.35.24.excalidraw.md",
+    "Excalidraw/onchain fact calculations.md",
+    "Excalidraw/linux symlinks.md",
+    "Excalidraw/multi-token staking.md",
+    "Excalidraw/update state.md",
+    "Excalidraw/starknet l2 flow.md",
+    "Analytics.md",
+    "Untitled 8.md",
+    "Mehul/Karnot/Proofs-Verification/Herodotus.md",
     "Mehul/Karnot/Starknet OS.md",
     "Mehul/Karnot/Starknet Core Contract.md",
-    "Mehul/Karnot/Sn_forge test.md",
-    "Mehul/Daily/28-02-2024.md",
-    "Mehul/Daily/11-07-2024.md",
-    "Mehul/Daily/17-09-2024.md",
-    "Mehul/Karnot/Proofs-Verification/Verification.md",
+    "Mehul/Karnot/Cairo-lang.md",
+    "Mehul/yq.md",
+    "Mehul/Karnot/Proofs-Verification/Proofs on Starknet.md",
+    "Mehul/Karnot/Proofs-Verification/Stone.md",
     "Mehul/Karnot/Proofs-Verification",
     "Eth singapore",
     "Starks/Bootcamp",
@@ -212,7 +212,6 @@
     "Untitled 2.canvas",
     "Excalidraw/Drawing 2024-06-01 15.47.11.excalidraw.png",
     "Pasted image 20240521182121.png",
-    "Pasted image 20240521182014.png",
     "Untitled 1.canvas"
   ]
 }
