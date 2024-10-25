@@ -130,11 +130,11 @@ export NVM_DIR="$HOME/.nvm"
 # zoxide end
 
 # pnpm
-# export PNPM_HOME="/home/bytezorvin/.local/share/pnpm"
-# case ":$PATH:" in
-#   ":$PNPM_HOME:") ;;
-#   *) export PATH="$PNPM_HOME:$PATH" ;;
-# esac
+export PNPM_HOME="/Users/bytezorvin/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
 # pnpm end
 
 export PATH="$PATH:/home/bytezorvin/.foundry/bin"

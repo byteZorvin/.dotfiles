@@ -6,6 +6,9 @@ live_config_reload = true
 [env]
 TERM = "alacritty-direct"
 
+[scrolling]
+history = 100000
+
 [window]
 # padding.x = 10
 # padding.y = 10
@@ -13,7 +16,7 @@ TERM = "alacritty-direct"
 title = "Alacritty"
 # This disables some keybindings should use the keybiding way
 # But could not get it work now
-option_as_alt="Both" 
+option_as_alt = "Both"
 
 [font.normal]
 family = "FiraCode Nerd Font"
@@ -24,6 +27,6 @@ hide_when_typing = true
 
 [keyboard]
 bindings = [
-{ key = "F11", action = "ToggleFullscreen" },
-# { key = "J", mode="Alt", chars="\u006A"}
+  { key = "F11", action = "ToggleFullscreen" },
+  # { key = "J", mode="Alt", chars="\u006A"}
 ]

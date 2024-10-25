@@ -13,13 +13,13 @@ return {
       settings = {
         ["rust-analyzer"] = {
           checkOnSave = {
-            command = "check",
+            command = "clippy",
             extraArgs = { "--no-deps" }, -- Optional: add this if you don't want to check dependencies
           },
-          cargo = {
-            -- features = { "testing" }, -- Replace "feat1" with your specific feature
-            allFeatures = true,
-          },
+          -- cargo = {
+          --   -- features = { "testing" }, -- Replace "feat1" with your specific feature
+          --   -- allFeatures = true,
+          -- },
           check = {
             allTargets = true,
           },
