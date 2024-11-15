@@ -137,8 +137,11 @@ case ":$PATH:" in
 esac
 # pnpm end
 
-export PATH="$PATH:/home/bytezorvin/.foundry/bin"
+export PATH="$PATH:$HOME/.foundry/bin"
 # PATH VARIABLES END
+
+
+# --------------- Aliases ---------------- #
 
 # Git aliases
 alias gp="git pull"
@@ -156,6 +159,10 @@ alias l='ls -CF'
 
 # prettier
 alias pf='npx prettier . --write'
+
+alias nv='nvim'
+
+# --------------- Aliases ---------------- #
 
 
 # cairo alias
@@ -184,6 +191,9 @@ alias snft='snforge test'
 fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 
-# . "/home/bytezorvin/.starkli/env"
-. "/Users/bytezorvin/.starkli/env"
+. "$HOME/.starkli/env"
 export PATH="/opt/homebrew/opt/m4/bin:$PATH"
+
+. "$HOME/.deno/env"
+export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"
+

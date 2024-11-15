@@ -24,6 +24,9 @@ if ! tmux has-session -t $session_name 2>/dev/null; then
 	tmux new-session -ds "$session_name" -c "$selected"
 fi
 
-tmux switch-client -t $session_name
+if [ -z "$TMUX" ]; then
+  tmux a
+fi
 
+tmux switch-client -t $session_name
 # nvim elected

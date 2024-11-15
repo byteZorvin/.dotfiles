@@ -8,8 +8,9 @@ return {
   config = function()
     require("mason").setup()
     require("mason-lspconfig").setup()
+    local nvim_lsp = require("lspconfig")
 
-    require("lspconfig").rust_analyzer.setup({
+    nvim_lsp.rust_analyzer.setup({
       settings = {
         ["rust-analyzer"] = {
           checkOnSave = {
@@ -35,6 +36,17 @@ return {
           -- You can add more rust-analyzer settings here
         },
       },
+    })
+
+    nvim_lsp.denols.setup({
+      -- on_attach = on_attach,
+      root_dir = nvim_lsp.util.root_pattern("deno.json", "deno.jsonc"),
+    })
+
+    nvim_lsp.ts_ls.setup({
+      -- on_attach = on_attach,
+      root_dir = nvim_lsp.util.root_pattern("package.json"),
+      single_file_support = false,
     })
   end,
 }
