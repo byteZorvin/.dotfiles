@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 return {
   "williamboman/mason-lspconfig.nvim",
   dependencies = {
@@ -51,7 +50,6 @@ return {
     })
   end,
 }
-=======
 -- return {
 --   "williamboman/mason-lspconfig.nvim",
 --   dependencies = {
@@ -89,7 +87,6 @@ return {
 --     })
 --   end,
 -- }
->>>>>>> Stashed changes
 
 -- return {
 --   {

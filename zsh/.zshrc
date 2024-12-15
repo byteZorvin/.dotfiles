@@ -130,14 +130,16 @@ export NVM_DIR="$HOME/.nvm"
 # zoxide end
 
 # pnpm
-export PNPM_HOME="/Users/bytezorvin/Library/pnpm"
+export PNPM_HOME="$HOME/Library/pnpm"
 case ":$PATH:" in
   *":$PNPM_HOME:"*) ;;
   *) export PATH="$PNPM_HOME:$PATH" ;;
 esac
-# pnpm end
+#pnpm end
 
 export PATH="$PATH:$HOME/.foundry/bin"
+export PATH="$PATH:$HOME/.cargo/bin" 
+
 # PATH VARIABLES END
 
 
@@ -191,9 +193,11 @@ alias snft='snforge test'
 fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 
+# . "$HOME/.starkli/env"
+# export PATH="/opt/homebrew/opt/m4/bin:$PATH"
+
+# . "$HOME/.deno/env"
+# export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"
+
 . "$HOME/.starkli/env"
-export PATH="/opt/homebrew/opt/m4/bin:$PATH"
-
 . "$HOME/.deno/env"
-export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"
-
