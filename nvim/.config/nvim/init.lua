@@ -2,7 +2,7 @@
 require("config.lazy")
 
 -- Set up lspconfig.
-local capabilities = require("cmp_nvim_lsp").default_capabilities()
+-- local capabilities = require("cmp_nvim_lsp").default_capabilities()
 -- -- Replace <YOUR_LSP_SERVER> with each lsp server you've enabled.
 -- require("lspconfig").tsserver.setup({
 --   capabilities = capabilities,
@@ -11,7 +11,6 @@ local capabilities = require("cmp_nvim_lsp").default_capabilities()
 --   capabilities = capabilities,
 -- })
 require("lspconfig").cairo_ls.setup({
-  capabilities = capabilities,
   cmd = { "scarb", "cairo-language-server", "--stdio" },
 })
 -- require("lspconfig").rust_analyzer.setup({
