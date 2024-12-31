@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Karnot/Lst/Rewards.md",
+                "file": "Audit Platforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rewards"
+              "title": "Audit Platforms"
             }
           }
         ]
@@ -87,12 +87,12 @@
               "title": "Aptos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754
+    "width": 306.5019874572754,
+    "collapsed": true
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -190,10 +190,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89208fb2002d823e",
+  "active": "bd3dfe1c7dbab7f7",
   "lastOpenFiles": [
+    "Mehul/Karnot/Lst/Audit Scope.md",
+    "Audit Platforms.md",
+    "Mehul/Karnot/Lst/Rewards/Tests.md",
+    "Mehul/Karnot/Lst/Rewards/Rewards.md",
+    "Mehul/Karnot/Lst/Rewards",
+    "Mehul/Karnot/Lst/Contracts Design.md",
     "Excalidraw/finternet.md",
-    "Mehul/Karnot/Lst/Rewards.md",
     "Mehul/Karnot/Lst/Withdraw queue.md",
     "Mehul/Karnot/Lst/Starknet staking contracts.md",
     "Mehul/Karnot/Lst/Research.md",
@@ -201,9 +206,7 @@
     "Mehul/Karnot/Lst/Hypernative.md",
     "Mehul/Karnot/Lst/design.md",
     "Mehul/Karnot/Lst/Deployment.md",
-    "Mehul/Karnot/Lst/Contracts Design.md",
     "Mehul/Karnot/Lst/Contracts.md",
-    "Mehul/Karnot/Lst/Audit Scope.md",
     "Mehul/Deno/Learnings.md",
     "Mehul/Filament/Deployment/Contract Deployment.md",
     "Mehul/Deno",
@@ -218,8 +221,6 @@
     "Mehul/Filament/Testcases/List.md",
     "Mehul/Filament/Frontend/ChangeLog.md",
     "Mehul/Filament/Audit and fixes/Audit and fixes.md",
-    "Mehul/Filament/Deployment/Addresses.md",
-    "Mehul/Daily/11-03-2024.md",
     "EthIndia/citrea-atomic-swaps.png",
     "EthIndia",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
@@ -238,7 +239,6 @@
     "Pasted image 20241025170708.png",
     "Untitled 8.canvas",
     "Mehul/Monthly",
-    "Mehul/Karno/Lst",
     "Pasted image 20241008160159.png",
     "Untitled 7.canvas",
     "Pasted image 20240822182343.png",
