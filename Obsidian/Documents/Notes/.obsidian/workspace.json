@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "943e879646f0487f",
+        "id": "33dc8d0bbe276c90",
         "type": "tabs",
         "children": [
           {
-            "id": "bd3dfe1c7dbab7f7",
+            "id": "0d7cd20978880760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audit Platforms.md",
+                "file": "Mehul/Daily/11-02-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Audit Platforms"
+              "title": "11-02-2025"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "running",
+                "query": "hey team,",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mehul/Monthly/Oct.md",
+                "file": "Mehul/Daily/04-01-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Oct"
+              "title": "Outgoing links from 04-01-2025"
             }
           },
           {
@@ -154,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mehul/Monthly/Oct.md"
+                "file": "Mehul/Daily/04-01-2025.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Oct"
+              "title": "Outline of 04-01-2025"
             }
           },
           {
@@ -169,14 +170,43 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "c4a861370360d8e4",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "3e22c1c3cdd99964",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4cab4103a8494dcb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,63 +217,67 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "bd3dfe1c7dbab7f7",
+  "active": "0d7cd20978880760",
   "lastOpenFiles": [
-    "Mehul/Karnot/Lst/Audit Scope.md",
-    "Audit Platforms.md",
-    "Mehul/Karnot/Lst/Rewards/Tests.md",
-    "Mehul/Karnot/Lst/Rewards/Rewards.md",
-    "Mehul/Karnot/Lst/Rewards",
+    "Mehul/Karnot/Lst/Product research/Rough ideas.md",
+    "Mehul/Daily/11-02-2025.md",
+    "Pasted image 20250209163747.png",
+    "Agentic Ethereum/Imp logs.md",
+    "Agentic Ethereum",
+    "Excalidraw/Drawing 2025-02-01 22.49.36.excalidraw.md",
     "Mehul/Karnot/Lst/Contracts Design.md",
-    "Excalidraw/finternet.md",
-    "Mehul/Karnot/Lst/Withdraw queue.md",
-    "Mehul/Karnot/Lst/Starknet staking contracts.md",
+    "Mehul/Karnot/Lst/Product research",
+    "Untitled",
     "Mehul/Karnot/Lst/Research.md",
-    "Mehul/Karnot/Lst/lst canvas.canvas",
-    "Mehul/Karnot/Lst/Hypernative.md",
     "Mehul/Karnot/Lst/design.md",
-    "Mehul/Karnot/Lst/Deployment.md",
-    "Mehul/Karnot/Lst/Contracts.md",
-    "Mehul/Deno/Learnings.md",
-    "Mehul/Filament/Deployment/Contract Deployment.md",
+    "Mehul/Karnot/Lst/Rewards/Points.md",
+    "Mehul/Daily/30-01-2025.md",
+    "Mehul/Karnot/Lst/Rewards/Rewards.md",
+    "Pasted image 20250125194029.png",
+    "Mehul/Karnot/Lst/Rewards/Reward tracking tests.md",
+    "Raveena/Top Moments 2025/January.md",
+    "Raveena/Top Moments 2025",
+    "Mehul/Karnot/Lst/Audit Scope.md",
+    "Filament/Frontend/ChangeLog.md",
+    "Mehul/Karnot/Cairo-lang.md",
+    "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
+    "Filament/Deployment/Addresses.md",
+    "Mehul/Daily/07-01-2025.md",
+    "Portfolio for xStrk.md",
+    "Raveena/Router Protocol/Enclave Pending Txns.md",
+    "Mehul/Daily/08-01-2025.md",
+    "task Deploy Rewards Tracking by dockersing 🔺 📅 2025-01-06.md",
+    "Create a doc for the tracking.md",
+    "Kanban/Main Kanban.md",
+    "Mehul/Daily/06-01-2025.md",
+    "Mehul/Daily/04-01-2025.md",
+    "Untitled.png",
+    "Untitled 7.png",
+    "Untitled 10.png",
+    "Kanban",
+    "Pasted image 20240506122321.png",
+    "Pasted image 20240502001358.png",
+    "Pasted image 20240215202601.png",
+    "Mehul/Karnot/Lst/Rewards",
+    "Mehul/Karnot/Lst/lst canvas.canvas",
     "Mehul/Deno",
-    "Raveena/Rosetta 2.md",
-    "Untitled 12.md",
-    "Raveena/Router Protocol/Aptos.md",
-    "EthIndia/Idea.md",
-    "Analytics.md",
-    "EthIndia/Readme.md",
-    "EthIndia/citrea-atomic-swaps.md",
-    "Mehul/Filament/Tasks.md",
-    "Mehul/Filament/Testcases/List.md",
-    "Mehul/Filament/Frontend/ChangeLog.md",
-    "Mehul/Filament/Audit and fixes/Audit and fixes.md",
     "EthIndia/citrea-atomic-swaps.png",
     "EthIndia",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
     "Untitled 10.canvas",
     "Untitled 9.canvas",
-    "Untitled",
     "Mehul/Karnot/Lst/Hypernative",
-    "Pasted image 20240215202601.png",
-    "Pasted image 20240502001358.png",
     "Eth singapore/Untitled.canvas",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Mehul/Rust",
-    "Readings",
-    "Pasted image 20241025181940.png",
-    "Pasted image 20241025170708.png",
     "Untitled 8.canvas",
-    "Mehul/Monthly",
-    "Pasted image 20241008160159.png",
     "Untitled 7.canvas",
-    "Pasted image 20240822182343.png",
-    "Pasted image 20240822180606.png",
-    "Pasted image 20240822174849.png",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
     "Untitled 4.canvas",

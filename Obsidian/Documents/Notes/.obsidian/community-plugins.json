@@ -2,5 +2,10 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-vimrc-support",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "obsidian-day-planner",
+  "calendar"
 ]

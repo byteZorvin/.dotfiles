@@ -1,0 +1,52 @@
+{
+  "snapStepMinutes": 10,
+  "progressIndicator": "bar",
+  "showTaskNotification": false,
+  "zoomLevel": 2,
+  "timelineIcon": "calendar-clock",
+  "endLabel": "All done",
+  "startHour": 0,
+  "timelineDateFormat": "DD-MM-YYYY",
+  "centerNeedle": false,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 1,
+  "timelineColored": false,
+  "timelineStartColor": "#006466",
+  "timelineEndColor": "#4d194d",
+  "timestampFormat": "HH:mm",
+  "hourFormat": "h",
+  "dataviewSource": "",
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 60,
+  "minimalDurationMinutes": 10,
+  "showTimestampInTaskBlock": false,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true,
+  "showNow": true,
+  "showNext": true,
+  "pluginVersion": "0.27.0",
+  "showCompletedTasks": true,
+  "showSubtasksInTaskBlocks": true,
+  "icals": [
+    {
+      "name": "Work",
+      "email": "mehul@karnot.xyz",
+      "url": "https://calendar.google.com/calendar/ical/mehul%40karnot.xyz/public/basic.ics",
+      "color": "#ffffff"
+    },
+    {
+      "name": "Personal",
+      "email": "imehul24@gmail.com",
+      "url": "https://calendar.google.com/calendar/ical/imehul24%40gmail.com/private-09321d498c53ef95cd27d58703441152/basic.ics",
+      "color": "#6a4fc9"
+    }
+  ],
+  "colorOverrides": [],
+  "releaseNotes": true,
+  "taskStatusOnCreation": " ",
+  "eventFormatOnCreation": "task",
+  "sortTasksInPlanAfterEdit": false,
+  "firstDayOfWeek": "monday",
+  "multiDayRange": "3-days",
+  "showTimeTracker": true
+}
