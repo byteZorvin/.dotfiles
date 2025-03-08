@@ -15,6 +15,18 @@ require("lazy").setup({
     } },
     -- import any extras modules here
     { import = "lazyvim.plugins.extras.lang.typescript" },
+    -- {
+    --   "neovim/nvim-lspconfig",
+    --   opts = {
+    --     servers = {
+    --       {
+    --         ts_ls = {
+    --           enabled = false,
+    --         },
+    --       },
+    --     },
+    --   },
+    -- },
     { import = "lazyvim.plugins.extras.lang.json" },
     { import = "lazyvim.plugins.extras.ui.mini-animate" },
     -- import/override with your plugins

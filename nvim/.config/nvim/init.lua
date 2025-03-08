@@ -13,6 +13,13 @@ require("config.lazy")
 require("lspconfig").cairo_ls.setup({
   cmd = { "scarb", "cairo-language-server", "--stdio" },
 })
+
+vim.api.nvim_create_autocmd({ "BufNewFile", "BufRead" }, {
+  pattern = "*.star",
+  callback = function()
+    vim.bo.filetype = "python"
+  end,
+})
 -- require("lspconfig").rust_analyzer.setup({
 --   capabilities = capabilities,
 -- })
