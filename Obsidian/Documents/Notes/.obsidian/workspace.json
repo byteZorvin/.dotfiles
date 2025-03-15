@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Karnot/Bridge/Gridy.md",
+                "file": "Mehul/Karnot/Bridge/Starkgate bridge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gridy"
+              "title": "Starkgate bridge"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "madara-l2",
+                "query": "profile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Aptos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,14 +225,20 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "7238f5acebf97791",
+  "active": "89208fb2002d823e",
   "lastOpenFiles": [
-    "Mehul/Karnot/Bridge/Gridy bridge arch.md",
-    "Mehul/Karnot/Bridge/Gridy.md",
-    "Mehul/Karnot/Bridge/Drawing 2025-03-07 12.14.21.excalidraw.md",
+    "Mehul/Karnot/Madara.md",
+    "Excalidraw/finternet.md",
+    "Mehul/Karnot/Bridge/Starkgate bridge.md",
     "Mehul/Karnot/Benchmark.md",
-    "Mehul/Karnot/Bridge/Architecture.md",
+    "Raveena/Offchain Labs Take home.md",
+    "Mehul/Karnot/Bridge/Gridy.md",
+    "Mehul/Karnot/Bridge/Gridy bridge arch.md",
+    "Mehul/Karnot/Bridge/Deactivation and Blocking.md",
     "Mehul/Karnot/Bridge/Bridge questions.md",
+    "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
+    "Mehul/Karnot/Bridge/Architecture.md",
+    "Mehul/Karnot/Bridge/Drawing 2025-03-07 12.14.21.excalidraw.md",
     "Mehul/Karnot/Bridge/Untitled.canvas",
     "Mehul/Karnot/Lst/Relayer.md",
     "Raveena/Learnings.md",
@@ -248,12 +255,6 @@
     "Mehul/Karnot/Lst/Contracts.md",
     "Mehul/Karnot/Lst/Audit Scope.md",
     "Filament/Audit and fixes/Audit and fixes.md",
-    "Mehul/Daily/14-05-2024.md",
-    "Mehul/Daily/02-08-2024.md",
-    "Upgradability Implementation Notes.md",
-    "Work/Learning Aptos-MOVE/Learning Aptos-MOVE.md",
-    "Mehul/Karnot/Lst/design.md",
-    "Mehul/Daily/14-02-2025.md",
     "Pasted image 20250209163747.png",
     "Agentic Ethereum",
     "Mehul/Karnot/Lst/Product research",

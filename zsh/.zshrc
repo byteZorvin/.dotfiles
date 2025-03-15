@@ -140,6 +140,9 @@ esac
 export PATH="$PATH:$HOME/.foundry/bin"
 export PATH="$PATH:$HOME/.cargo/bin" 
 
+export ASDF_DATA_DIR="$HOME/.asdf"
+export PATH="$ASDF_DATA_DIR/shims:$PATH"
+
 # PATH VARIABLES END
 
 
@@ -186,8 +189,6 @@ alias snft='snforge test'
 
 # For getting installation hints like bash in zsh
 # source /etc/zsh_command_not_found
-
-# . "$HOME/.asdf/asdf.sh"
 
 # append completions to fpath
 # fpath=(${ASDF_DIR}/completions $fpath)
