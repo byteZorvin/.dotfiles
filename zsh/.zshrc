@@ -187,10 +187,10 @@ alias snft='snforge test'
 # For getting installation hints like bash in zsh
 # source /etc/zsh_command_not_found
 
-. "$HOME/.asdf/asdf.sh"
+# . "$HOME/.asdf/asdf.sh"
 
 # append completions to fpath
-fpath=(${ASDF_DIR}/completions $fpath)
+# fpath=(${ASDF_DIR}/completions $fpath)
 # initialise completions with ZSH's compinit
 
 # . "$HOME/.starkli/env"
