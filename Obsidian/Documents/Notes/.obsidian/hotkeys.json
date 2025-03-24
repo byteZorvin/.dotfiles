@@ -102,8 +102,7 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "B"
     }
@@ -115,6 +114,15 @@
         "Shift"
       ],
       "key": "E"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

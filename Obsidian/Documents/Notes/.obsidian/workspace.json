@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f640733d10e6d064",
+        "id": "5c59de644ea91016",
         "type": "tabs",
         "children": [
           {
-            "id": "7238f5acebf97791",
+            "id": "c6bcb5b451b8117f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Karnot/Bridge/Starkgate bridge.md",
+                "file": "Mehul/Daily/24-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Starkgate bridge"
+              "title": "24-03-2025"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "profile",
+                "query": "g",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "title": "Aptos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754
+    "width": 306.5019874572754,
+    "collapsed": true
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -225,14 +225,24 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "89208fb2002d823e",
+  "active": "c6bcb5b451b8117f",
   "lastOpenFiles": [
+    "Mehul/Bridge Final List.md",
+    "Mehul/Daily/24-03-2025.md",
+    "EIP I should know.md",
+    "Contract Ownership Standard (eip173).md",
+    "Contract Ownership Standard.md",
+    "Mehul/Daily/21-03-2025.md",
+    "Mehul/Karnot/Bridge/Gridy.md",
     "Mehul/Karnot/Madara.md",
-    "Excalidraw/finternet.md",
+    "Mehul/Claude.md",
+    "Mehul/Karnot/Lst/Technical Proposal - Liquidity Management for XSTRK Price Stability.md",
+    "Excalidraw/Token Status flow in Bridge.md",
+    "Mehul/Daily/01-07-2024.md",
     "Mehul/Karnot/Bridge/Starkgate bridge.md",
+    "Excalidraw/finternet.md",
     "Mehul/Karnot/Benchmark.md",
     "Raveena/Offchain Labs Take home.md",
-    "Mehul/Karnot/Bridge/Gridy.md",
     "Mehul/Karnot/Bridge/Gridy bridge arch.md",
     "Mehul/Karnot/Bridge/Deactivation and Blocking.md",
     "Mehul/Karnot/Bridge/Bridge questions.md",
@@ -244,17 +254,7 @@
     "Raveena/Learnings.md",
     "Raveena/LangGraph.md",
     "Raveena/Crypfi Contracts.md",
-    "Mehul/Karnot/Lst/Technical Proposal - Liquidity Management for XSTRK Price Stability.md",
     "Pasted image 20250220201655.png",
-    "Portfolio for xStrk.md",
-    "Mehul/Karnot/Lst/Rewards/Points.md",
-    "Eth singapore/MEV-Engine.md",
-    "Mehul/Karnot/Lst/Liquidity.md",
-    "Mehul/Karnot/Ekubo.md",
-    "Eth singapore/Drawing 2024-12-03 01.24.44.excalidraw.md",
-    "Mehul/Karnot/Lst/Contracts.md",
-    "Mehul/Karnot/Lst/Audit Scope.md",
-    "Filament/Audit and fixes/Audit and fixes.md",
     "Pasted image 20250209163747.png",
     "Agentic Ethereum",
     "Mehul/Karnot/Lst/Product research",

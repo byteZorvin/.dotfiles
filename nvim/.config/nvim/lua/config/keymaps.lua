@@ -51,3 +51,5 @@ vim.keymap.set("n", "<leader>cG", crates.open_repository, { silent = true, desc 
 vim.keymap.set("n", "<leader>cD", crates.open_documentation, { silent = true, desc = " Open crate documentation" })
 vim.keymap.set("n", "<leader>cC", crates.open_crates_io, { silent = true, desc = " Open crates.io" })
 vim.keymap.set("n", "<leader>cL", crates.open_lib_rs, { silent = true, desc = " Open lib.rs" })
+
+vim.keymap.set("n", "<leader>gd", ":!tmux neww gh dash<CR>", { desc = "Open gh dashboard in floating window" })
