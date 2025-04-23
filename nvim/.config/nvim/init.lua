@@ -20,6 +20,8 @@ vim.api.nvim_create_autocmd({ "BufNewFile", "BufRead" }, {
     vim.bo.filetype = "python"
   end,
 })
+
+vim.lsp.inlay_hint.enable(false, nil)
 -- require("lspconfig").rust_analyzer.setup({
 --   capabilities = capabilities,
 -- })

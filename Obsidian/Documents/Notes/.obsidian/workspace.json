@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5c59de644ea91016",
+        "id": "646a1bea6a9c2720",
         "type": "tabs",
         "children": [
           {
-            "id": "c6bcb5b451b8117f",
+            "id": "076e45c9a57142c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mehul/Daily/24-03-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Token Status flow in Bridge.md"
               },
-              "icon": "lucide-file",
-              "title": "24-03-2025"
+              "icon": "excalidraw-icon",
+              "title": "Token Status flow in Bridge"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "g",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +86,8 @@
               "title": "Aptos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,8 +210,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,35 +224,38 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "c6bcb5b451b8117f",
+  "active": "076e45c9a57142c1",
   "lastOpenFiles": [
-    "Mehul/Bridge Final List.md",
-    "Mehul/Daily/24-03-2025.md",
-    "EIP I should know.md",
-    "Contract Ownership Standard (eip173).md",
-    "Contract Ownership Standard.md",
-    "Mehul/Daily/21-03-2025.md",
-    "Mehul/Karnot/Bridge/Gridy.md",
-    "Mehul/Karnot/Madara.md",
-    "Mehul/Claude.md",
-    "Mehul/Karnot/Lst/Technical Proposal - Liquidity Management for XSTRK Price Stability.md",
-    "Excalidraw/Token Status flow in Bridge.md",
-    "Mehul/Daily/01-07-2024.md",
-    "Mehul/Karnot/Bridge/Starkgate bridge.md",
-    "Excalidraw/finternet.md",
-    "Mehul/Karnot/Benchmark.md",
-    "Raveena/Offchain Labs Take home.md",
-    "Mehul/Karnot/Bridge/Gridy bridge arch.md",
-    "Mehul/Karnot/Bridge/Deactivation and Blocking.md",
+    "Excalidraw/starknet l2 flow.md",
+    "Mehul/Karnot/Bridge/Bridge Access control.excalidraw.md",
+    "Mehul/Karnot/Bridge/L3 bridge access control.md",
     "Mehul/Karnot/Bridge/Bridge questions.md",
-    "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
     "Mehul/Karnot/Bridge/Architecture.md",
-    "Mehul/Karnot/Bridge/Drawing 2025-03-07 12.14.21.excalidraw.md",
+    "Excalidraw/Token Status flow in Bridge.md",
+    "Raveena/Bloctopus/Kurtosis.md",
+    "Raveena/Bloctopus",
+    "Mehul/Karnot/Bridge/Starkgate bridge.md",
+    "Excalidraw/Drawing 2025-04-15 15.52.45.excalidraw.md",
+    "Drawing 2025-04-15 15.52.45.excalidraw.md",
+    "Raveena/2024-06-24.md",
+    "Mehul/Daily/15-04-2025.md",
+    "Mehul/Karnot/Madara.md",
+    "Mehul/Daily/08-04-2025.md",
+    "Mehul/Daily/02-04-2025.md",
+    "Mehul/Daily/01-04-2025.md",
+    "Mehul/Daily/31-03-2025.md",
+    "Mehul/Daily/26-03-2025.md",
+    "Mehul/Daily/25-03-2025.md",
+    "Mehul/Daily/24-03-2025.md",
+    "Mehul/Daily/21-03-2025.md",
+    "Mehul/Daily/14-02-2025.md",
+    "Mehul/Daily/11-02-2025.md",
+    "Mehul/Daily/30-01-2025.md",
+    "Mehul/Daily/08-01-2025.md",
+    "Mehul/Daily/07-01-2025.md",
+    "RWA/gold rwa canvas.canvas",
+    "RWA",
     "Mehul/Karnot/Bridge/Untitled.canvas",
-    "Mehul/Karnot/Lst/Relayer.md",
-    "Raveena/Learnings.md",
-    "Raveena/LangGraph.md",
-    "Raveena/Crypfi Contracts.md",
     "Pasted image 20250220201655.png",
     "Pasted image 20250209163747.png",
     "Agentic Ethereum",
@@ -275,13 +277,10 @@
     "EthIndia",
     "Untitled 10.canvas",
     "Untitled 9.canvas",
-    "Mehul/Karnot/Lst/Hypernative",
     "Eth singapore/Untitled.canvas",
-    "Excalidraw/Scripts/Downloaded",
     "Untitled 8.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
-    "Untitled 5.canvas",
-    "Untitled 4.canvas"
+    "Untitled 5.canvas"
   ]
 }
