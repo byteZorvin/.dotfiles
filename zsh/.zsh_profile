@@ -13,6 +13,14 @@ export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 
+export PATH="$PATH:$HOME/.foundry/bin"
+export PATH="$PATH:$HOME/.cargo/bin" 
+
+export ASDF_DATA_DIR="$HOME/.asdf"
+export PATH="$ASDF_DATA_DIR/shims:$PATH"
+
+export PATH="$PATH:$HOME/dependencies/flutter/bin"
+
 bindkey -v
 
 # Where should I put you?

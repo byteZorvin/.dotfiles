@@ -14,8 +14,8 @@ require("lazy").setup({
       "LazyVim/LazyVim",
       import = "lazyvim.plugins",
       opts = {
-        -- colorscheme = "gruvbox",
-        colorscheme = "rose-pine",
+        colorscheme = "gruvbox",
+        -- colorscheme = "rose-pine",
       },
     },
     -- import any extras modules here

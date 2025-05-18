@@ -137,11 +137,7 @@ case ":$PATH:" in
 esac
 #pnpm end
 
-export PATH="$PATH:$HOME/.foundry/bin"
-export PATH="$PATH:$HOME/.cargo/bin" 
 
-export ASDF_DATA_DIR="$HOME/.asdf"
-export PATH="$ASDF_DATA_DIR/shims:$PATH"
 
 # PATH VARIABLES END
 
