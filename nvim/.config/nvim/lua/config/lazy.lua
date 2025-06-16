@@ -16,6 +16,7 @@ require("lazy").setup({
       opts = {
         colorscheme = "gruvbox",
         -- colorscheme = "rose-pine",
+        -- colorscheme = "catppuccin-mocha",
       },
     },
     -- import any extras modules here
@@ -53,8 +54,8 @@ require("lazy").setup({
       -- disable some rtp plugins
       disabled_plugins = {
         "gzip",
-        -- "matchit",
-        -- "matchparen",
+        "matchit",
+        "matchparen",
         -- "netrwPlugin",
         "tarPlugin",
         "tohtml",

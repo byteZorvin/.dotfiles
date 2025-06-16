@@ -12,15 +12,15 @@ history = 100000
 [window]
 # padding.x = 10
 # padding.y = 10
-# opacity = 0.95
+opacity = 0.8
 title = "Alacritty"
 # This disables some keybindings should use the keybiding way
 # But could not get it work now
 option_as_alt = "Both"
+startup_mode = "SimpleFullscreen"
 
 [font.normal]
-family = "FiraCode Nerd Font"
-style = "Regular"
+family = "JetBrainsMonoNL Nerd Font"
 
 [mouse]
 hide_when_typing = true

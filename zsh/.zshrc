@@ -198,3 +198,14 @@ alias snft='snforge test'
 
 . "$HOME/.starkli/env"
 . "$HOME/.deno/env"
+
+
+
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+export LC_COLLATE=en_IN.UTF-8
+export LC_CTYPE=en_IN.UTF-8
+export LC_MESSAGES=en_IN.UTF-8
+export LC_MONETARY=en_IN.UTF-8
+export LC_NUMERIC=en_IN.UTF-8
+export LC_TIME=en_IN.UTF-8

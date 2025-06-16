@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Rust/Questions.md",
+                "file": "Mehul/Daily/16-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "16-06-2025"
             }
           },
           {
@@ -240,8 +240,9 @@
   },
   "active": "1188b9aace9193a5",
   "lastOpenFiles": [
-    "Mehul/Karnot/Bootstrapper/Bootstrapper design.md",
     "Mehul/Rust/Questions.md",
+    "Mehul/Daily/16-06-2025.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper design.md",
     "Mehul/Karnot/Audits/Bridge.md",
     "Mehul/Karnot/Audits/Drawing 2025-06-10 16.25.25.excalidraw.md",
     "Mehul/Karnot/Audits/Piltover.md",
@@ -265,7 +266,6 @@
     "Excalidraw/finternet.md",
     "Excalidraw/Drawing 2025-05-07 12.14.18.excalidraw.md",
     "Excalidraw/Drawing 2025-04-15 15.52.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-07 23.51.49.excalidraw.md",
     "RWA/gold rwa canvas.canvas",
     "Mehul/Karnot/Audits",
     "Companies",
