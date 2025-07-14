@@ -15,9 +15,9 @@ history = 100000
 opacity = 0.8
 title = "Alacritty"
 # This disables some keybindings should use the keybiding way
-# But could not get it work now
+# But could not get it working now
 option_as_alt = "Both"
-startup_mode = "SimpleFullscreen"
+startup_mode = "Fullscreen"
 
 [font.normal]
 family = "JetBrainsMonoNL Nerd Font"

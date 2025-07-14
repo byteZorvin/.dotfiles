@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "734f893c0ebe4b26",
+        "id": "5e6f9dc87fedcd18",
         "type": "tabs",
         "children": [
           {
-            "id": "1188b9aace9193a5",
+            "id": "e73827493e7bd13e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Daily/16-06-2025.md",
+                "file": "Mehul/Daily/10-07-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16-06-2025"
-            }
-          },
-          {
-            "id": "7550868f8c136834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mehul/Karnot/Audits/Bridge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bridge"
+              "title": "10-07-2025"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l2-node",
+                "query": "starkgate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,20 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "7dc8f6aa73780d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Raveena/Router Protocol/Aptos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aptos"
             }
           }
         ]
@@ -238,34 +210,35 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "1188b9aace9193a5",
+  "active": "e73827493e7bd13e",
   "lastOpenFiles": [
-    "Mehul/Rust/Questions.md",
-    "Mehul/Daily/16-06-2025.md",
-    "Mehul/Karnot/Bootstrapper/Bootstrapper design.md",
-    "Mehul/Karnot/Audits/Bridge.md",
-    "Mehul/Karnot/Audits/Drawing 2025-06-10 16.25.25.excalidraw.md",
-    "Mehul/Karnot/Audits/Piltover.md",
-    "Mehul/Karnot/Bootstrapper/Boostrapper Design Doc.md",
-    "Mehul/Karnot/Bootstrapper/Initial thoughts.md",
+    "Mehul/Daily/09-07-2025.md",
+    "Mehul/Daily/05-07-2025.md",
+    "Mehul/Daily/04-07-2025.md",
+    "Mehul/Daily/10-07-2025.md",
+    "Mehul/Tweets.md",
+    "Mehul/Daily/27-06-2025.md",
+    "Mehul/Daily/25-06-2025.md",
+    "Mehul/Daily/17-06-2025.md",
+    "Work/Meetings Templates/Getting started with meeting notes.md",
     "Mehul/Karnot/Bootstrapper/Bootstrapper Mind Map.md",
-    "Mehul/Karnot/Bridge/Architecture.md",
-    "Mehul/Karnot/Bridge/Bridge (roles) Access control.excalidraw.md",
-    "Mehul/Karnot/Bridge/Bridge questions.md",
-    "Mehul/Karnot/Bridge/Cairo appchain bridge.md",
-    "Mehul/Karnot/Bridge/Gridy.md",
-    "Mehul/Karnot/Bridge/Withdraw limit library.md",
-    "Mehul/Karnot/Bridge/Timelock.md",
-    "Mehul/Karnot/Bridge/Tests.md",
-    "Mehul/Karnot/Bridge/Starkgate bridge.md",
-    "Mehul/Karnot/Bridge/Pessimistic proofs.md",
-    "Mehul/Karnot/Bridge/Helm Deploy.md",
+    "Mehul/Karnot/Bootstrapper/Etherum Factory.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper design Excali.md",
+    "Raveena/Router Protocol/Aptos.md",
+    "Mehul/Karnot/Bootstrapper/Boostrapper Implementation Thoughts.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper Design Document.md",
+    "Mehul/Karnot/Bootstrapper/Initial thoughts.md",
     "Mehul/Karnot/Bridge/Gridy bridge arch.md",
-    "Excalidraw/multi-token staking.md",
-    "Excalidraw/linux symlinks.md",
-    "Excalidraw/finternet.md",
-    "Excalidraw/Drawing 2025-05-07 12.14.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-15 15.52.45.excalidraw.md",
+    "Mehul/Karnot/Bridge/Gridy.md",
+    "Mehul/Karnot/Audits/Bridge.md",
+    "Mehul/Karnot/Bridge/Architecture.md",
+    "Mehul/Daily/24-04-2024.md",
+    "Raveena/2024-06-24.md",
+    "Raveena/SegWit.md",
+    "Push to github.md",
+    "Excalidraw/Starkgate Bridge.md",
+    "Excalidraw/onchain fact calculations.md",
+    "Pasted image 20250613180040.png",
     "RWA/gold rwa canvas.canvas",
     "Mehul/Karnot/Audits",
     "Companies",
@@ -286,7 +259,6 @@
     "updateState.excalidraw",
     "Untitled 1.png",
     "Untitled 1.canvas",
-    "Untitled.png",
     "Untitled.canvas",
     "Mehul/Finternet",
     "Bybit hack",

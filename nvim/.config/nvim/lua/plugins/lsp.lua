@@ -38,16 +38,25 @@ return {
       },
     })
 
-    -- nvim_lsp.denols.setup({
-    --   -- on_attach = on_attach,
-    --   root_dir = nvim_lsp.util.root_pattern("deno.json", "deno.jsonc"),
-    -- })
+    nvim_lsp.denols.setup({
+      -- on_attach = on_attach,
+      root_dir = nvim_lsp.util.root_pattern("deno.json", "deno.jsonc"),
+    })
 
     nvim_lsp.ts_ls.setup({
       -- on_attach = on_attach,
       root_dir = nvim_lsp.util.root_pattern("package.json"),
       single_file_support = false,
     })
+
+    -- Not working not sure why
+    -- nvim_lsp.solidity_ls_nomicfoundation.setup({
+    --   settings = {
+    --     ["nomicfoundation-solidity-language-server"] = {
+    --       formatter = "forge",
+    --     },
+    --   },
+    -- })
   end,
 }
 -- return {

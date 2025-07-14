@@ -1,6 +1,7 @@
 #!/usr/bin/env zsh
 
-SESSION_DURATION=86400
+SESSION_DURATION=129600
+
 
 set -ef -o pipefail
 
