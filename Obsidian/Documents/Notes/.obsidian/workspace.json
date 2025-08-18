@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6f9dc87fedcd18",
+        "id": "2cc521fd3885d101",
         "type": "tabs",
         "children": [
           {
-            "id": "e73827493e7bd13e",
+            "id": "395f37cd9ade1367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mehul/Daily/10-07-2025.md",
+                "file": "Mehul/Karnot/Bootstrapper/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-07-2025"
+              "title": "Design"
+            }
+          },
+          {
+            "id": "20916bd30bd185b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "starkgate",
+                "query": "factory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,34 +221,34 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "e73827493e7bd13e",
+  "active": "20916bd30bd185b8",
   "lastOpenFiles": [
-    "Mehul/Daily/09-07-2025.md",
-    "Mehul/Daily/05-07-2025.md",
-    "Mehul/Daily/04-07-2025.md",
-    "Mehul/Daily/10-07-2025.md",
-    "Mehul/Tweets.md",
-    "Mehul/Daily/27-06-2025.md",
-    "Mehul/Daily/25-06-2025.md",
-    "Mehul/Daily/17-06-2025.md",
-    "Work/Meetings Templates/Getting started with meeting notes.md",
-    "Mehul/Karnot/Bootstrapper/Bootstrapper Mind Map.md",
-    "Mehul/Karnot/Bootstrapper/Etherum Factory.md",
-    "Mehul/Karnot/Bootstrapper/Bootstrapper design Excali.md",
-    "Raveena/Router Protocol/Aptos.md",
-    "Mehul/Karnot/Bootstrapper/Boostrapper Implementation Thoughts.md",
-    "Mehul/Karnot/Bootstrapper/Bootstrapper Design Document.md",
+    "Mehul/Karnot/Bootstrapper/Design.md",
+    "Mehul/Karnot/Bootstrapper/Proxy governance.md",
     "Mehul/Karnot/Bootstrapper/Initial thoughts.md",
-    "Mehul/Karnot/Bridge/Gridy bridge arch.md",
-    "Mehul/Karnot/Bridge/Gridy.md",
-    "Mehul/Karnot/Audits/Bridge.md",
-    "Mehul/Karnot/Bridge/Architecture.md",
-    "Mehul/Daily/24-04-2024.md",
-    "Raveena/2024-06-24.md",
-    "Raveena/SegWit.md",
-    "Push to github.md",
-    "Excalidraw/Starkgate Bridge.md",
-    "Excalidraw/onchain fact calculations.md",
+    "Mehul/Karnot/Bootstrapper/Etherum Factory.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper Mind Map.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper design Excali.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper Design Document.md",
+    "Mehul/Karnot/Bootstrapper/Boostrapper Implementation Thoughts.md",
+    "Mehul/Rust Topics.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Raveena/Bloctopus/TREX flow.md",
+    "Raveena/Bloctopus/Issues with current network service structure.md",
+    "Corpo Chains.md",
+    "Mehul/Daily/12-08-2025.md",
+    "Mehul/Daily/11-08-2025.md",
+    "Mehul/Daily/05-07-2025.md",
+    "Mehul/Daily/09-07-2025.md",
+    "Mehul/Daily/10-07-2025.md",
+    "Mehul/Daily/28-07-2025.md",
+    "Mehul/Daily/06-08-2025.md",
+    "Mehul/Finternet/Units scripts.md",
+    "Work/NibiDEX/DEPLOYMENT NIBIDEX.md",
+    "Bitcoin/Signatures.md",
+    "Bitcoin/Starkware Research.md",
+    "Untitled 2.md",
     "Pasted image 20250613180040.png",
     "RWA/gold rwa canvas.canvas",
     "Mehul/Karnot/Audits",
