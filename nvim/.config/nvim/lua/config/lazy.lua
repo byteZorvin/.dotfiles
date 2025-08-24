@@ -18,7 +18,8 @@ require("lazy").setup({
         -- colorscheme = "rose-pine",
         -- colorscheme = "catppuccin-mocha",
         -- colorscheme = "catppuccin-frappe",
-        colorscheme = "solarized-osaka",
+        -- colorscheme = "solarized-osaka",
+        colorscheme = "tokyonight-moon",
       },
     },
     -- import any extras modules here

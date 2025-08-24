@@ -25,3 +25,6 @@ end, { noremap = true, silent = true })
 vim.keymap.set("n", "<Leader>n", function()
   vim.diagnostic.open_float({ border = "single" })
 end, { noremap = true, silent = true })
+
+-- Should keep pasting the same thing when pasting over a visual selection
+vim.keymap.set("n", "<leader>p", [["_dP]], { noremap = true, silent = true })
