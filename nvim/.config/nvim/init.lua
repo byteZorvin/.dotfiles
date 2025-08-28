@@ -14,13 +14,6 @@ require("lspconfig").cairo_ls.setup({
   cmd = { "scarb", "cairo-language-server", "--stdio" },
 })
 
-vim.api.nvim_create_autocmd({ "BufNewFile", "BufRead" }, {
-  pattern = "*.star",
-  callback = function()
-    vim.bo.filetype = "python"
-  end,
-})
-
 vim.lsp.inlay_hint.enable(false, nil)
 -- require("lspconfig").rust_analyzer.setup({
 --   capabilities = capabilities,

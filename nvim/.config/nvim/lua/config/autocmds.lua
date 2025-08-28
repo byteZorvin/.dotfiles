@@ -19,3 +19,12 @@ vim.api.nvim_create_autocmd("BufEnter", {
     vim.bo.filetype = "sh"
   end,
 })
+
+-- kurtosis .star files as python
+vim.api.nvim_create_autocmd("BufEnter", {
+  desc = "kurtosis * files as python files",
+  pattern = "*.star",
+  callback = function()
+    vim.bo.filetype = "python"
+  end,
+})

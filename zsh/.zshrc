@@ -166,6 +166,7 @@ alias nv='nvim'
 alias kn='k9s'
 # cairo alias
 alias snft='snforge test'
+alias n='nvim .'
 
 
 # --------------- Aliases ---------------- #

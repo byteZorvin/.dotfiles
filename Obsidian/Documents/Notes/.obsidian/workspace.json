@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c647b74472a3488c",
+        "id": "9ea85149f80d4d3e",
         "type": "tabs",
         "children": [
           {
-            "id": "36d5ecb41229e969",
+            "id": "59bf6679616c4b4e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "factory",
+                "query": "l2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 306.5019874572754,
-    "collapsed": true
+    "width": 306.5019874572754
   },
   "right": {
     "id": "ea9df01d9f6b4dc6",
@@ -208,10 +208,17 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "36d5ecb41229e969",
+  "active": "89208fb2002d823e",
   "lastOpenFiles": [
-    "Mehul/Karnot/Bootstrapper/Questions.md",
+    "Untitled 5.md",
+    "Raveena/Bloctopus/Cross chain master package.md",
+    "Excalidraw/Drawing 2025-08-27 12.08.20.excalidraw.md",
+    "Untitled.base",
+    "Mehul/Karnot/Audits/Drawing 2025-06-10 16.25.25.excalidraw.md",
     "Mehul/Karnot/Bootstrapper/Design.md",
+    "Mehul/Daily/03-06-2025.md",
+    "Work/ZK & Cryptography/ZK & Cryptography.md",
+    "Mehul/Karnot/Bootstrapper/Questions.md",
     "Mehul/Karnot/Bootstrapper/Proxy governance.md",
     "Mehul/Karnot/Bootstrapper/Initial thoughts.md",
     "Mehul/Karnot/Bootstrapper/Etherum Factory.md",
@@ -230,12 +237,6 @@
     "Mehul/Daily/05-07-2025.md",
     "Mehul/Daily/09-07-2025.md",
     "Mehul/Daily/10-07-2025.md",
-    "Mehul/Daily/28-07-2025.md",
-    "Mehul/Daily/06-08-2025.md",
-    "Mehul/Finternet/Units scripts.md",
-    "Work/NibiDEX/DEPLOYMENT NIBIDEX.md",
-    "Bitcoin/Signatures.md",
-    "Bitcoin/Starkware Research.md",
     "Pasted image 20250613180040.png",
     "RWA/gold rwa canvas.canvas",
     "Mehul/Karnot/Audits",
@@ -261,7 +262,6 @@
     "Mehul/Finternet",
     "Bybit hack",
     "Raveena/Bloctopus",
-    "RWA",
     "Mehul/Karnot/Bridge/Untitled.canvas",
     "Mehul/Karnot/Lst/lst canvas.canvas",
     "Untitled 10.canvas",
