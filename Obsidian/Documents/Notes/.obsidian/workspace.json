@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ea85149f80d4d3e",
+        "id": "8d8b03709d49b490",
         "type": "tabs",
         "children": [
           {
-            "id": "59bf6679616c4b4e",
+            "id": "87762660b92f2a47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Make the orchestrator 14.0 compatible.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Make the orchestrator 14.0 compatible"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l2",
+                "query": "l2-node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,8 +211,32 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "89208fb2002d823e",
+  "active": "87762660b92f2a47",
   "lastOpenFiles": [
+    "Untitled 9.base",
+    "Mehul/Daily/05-09-2025.md",
+    "Excalidraw/Drawing 2025-09-05 15.17.34.excalidraw.md",
+    "Make the orchestrator 14.0 compatible.md",
+    "Mehul/Daily/04-09-2025.md",
+    "Productivity/Workflow.md",
+    "Untitled 11.canvas",
+    "Untitled Kanban.md",
+    "Untitled 8.base",
+    "Untitled 1.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Mehul/Karnot/Madara.md",
+    "Mehul/Daily/02-09-2025.md",
+    "Mehul/Daily/03-09-2025.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper design Excali.md",
+    "Mehul/Karnot/Bootstrapper/Bootstrapper Mind Map.md",
+    "Excalidraw/Drawing 2025-08-28 23.23.40.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-28 20.18.33.excalidraw.md",
+    "Untitled 8.canvas",
     "Untitled 5.md",
     "Raveena/Bloctopus/Cross chain master package.md",
     "Excalidraw/Drawing 2025-08-27 12.08.20.excalidraw.md",
@@ -222,49 +249,24 @@
     "Mehul/Karnot/Bootstrapper/Proxy governance.md",
     "Mehul/Karnot/Bootstrapper/Initial thoughts.md",
     "Mehul/Karnot/Bootstrapper/Etherum Factory.md",
-    "Mehul/Karnot/Bootstrapper/Bootstrapper Mind Map.md",
-    "Mehul/Karnot/Bootstrapper/Bootstrapper design Excali.md",
     "Mehul/Karnot/Bootstrapper/Bootstrapper Design Document.md",
-    "Mehul/Karnot/Bootstrapper/Boostrapper Implementation Thoughts.md",
-    "Mehul/Rust Topics.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Raveena/Bloctopus/TREX flow.md",
-    "Raveena/Bloctopus/Issues with current network service structure.md",
-    "Corpo Chains.md",
-    "Mehul/Daily/12-08-2025.md",
-    "Mehul/Daily/11-08-2025.md",
-    "Mehul/Daily/05-07-2025.md",
-    "Mehul/Daily/09-07-2025.md",
-    "Mehul/Daily/10-07-2025.md",
     "Pasted image 20250613180040.png",
     "RWA/gold rwa canvas.canvas",
-    "Mehul/Karnot/Audits",
-    "Companies",
-    "Bitcoin",
     "Untitled 9.png",
-    "Untitled 8.canvas",
     "Untitled 8.png",
     "Untitled 7.canvas",
     "Untitled 6.png",
     "Mehul/Karnot/Untitled.canvas",
-    "Mehul/Karnot/Bootstrapper",
-    "Mehul/Karnot/L3 Deployment",
     "Pasted image 20240506122321.png",
     "Pasted image 20240521182121.png",
     "Pasted image 20240506123609.png",
     "Pasted image 20240502001358.png",
     "Untitled 1 2.png",
-    "updateState.excalidraw",
     "Untitled 1.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Mehul/Finternet",
-    "Bybit hack",
-    "Raveena/Bloctopus",
     "Mehul/Karnot/Bridge/Untitled.canvas",
     "Mehul/Karnot/Lst/lst canvas.canvas",
-    "Untitled 10.canvas",
-    "Untitled 9.canvas"
+    "Untitled 10.canvas"
   ]
 }

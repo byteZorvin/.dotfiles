@@ -14,5 +14,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

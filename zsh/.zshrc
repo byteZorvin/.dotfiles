@@ -168,6 +168,8 @@ alias kn='k9s'
 alias snft='snforge test'
 alias n='nvim .'
 
+alias tk='tmux kill-server'
+
 
 # --------------- Aliases ---------------- #
 
