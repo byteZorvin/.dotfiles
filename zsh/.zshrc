@@ -182,36 +182,4 @@ alias tk='tmux kill-server'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 # bindkey '^f' 'nvim $(fzf --preview='cat {}')'
 # fzf end
-
-
-# Old way so commenting out, will use omz method
-# # zsh-autosuggestions
-# source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-# # zsh-autosuggestions end
-
-# For getting installation hints like bash in zsh
-# source /etc/zsh_command_not_found
-
-# append completions to fpath
-# fpath=(${ASDF_DIR}/completions $fpath)
-# initialise completions with ZSH's compinit
-
-# . "$HOME/.starkli/env"
-# export PATH="/opt/homebrew/opt/m4/bin:$PATH"
-
-# . "$HOME/.deno/env"
-# export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"
-
-. "$HOME/.starkli/env"
-. "$HOME/.deno/env"
-
-
-
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-export LC_COLLATE=en_IN.UTF-8
-export LC_CTYPE=en_IN.UTF-8
-export LC_MESSAGES=en_IN.UTF-8
-export LC_MONETARY=en_IN.UTF-8
-export LC_NUMERIC=en_IN.UTF-8
-export LC_TIME=en_IN.UTF-8
+. "/Users/bytezorvin/.starkli/env"
