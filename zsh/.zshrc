@@ -106,8 +106,8 @@ source ~/.zsh_profile
 
 # ----------------------- pre omz config ------------------------------#
 # Tmux not knowing that utf8 is suppported and symbols not proper
-export LC_ALL=en_IN.UTF-8
-export LANG=en_IN.UTF-8
+# export LC_ALL=en_IN.UTF-8
+# export LANG=en_IN.UTF-8
 
 
 # GTK_THEME not working properly in i3
@@ -183,3 +183,10 @@ alias tk='tmux kill-server'
 # bindkey '^f' 'nvim $(fzf --preview='cat {}')'
 # fzf end
 . "/Users/bytezorvin/.starkli/env"
+
+# bun completions
+[ -s "/Users/bytezorvin/.bun/_bun" ] && source "/Users/bytezorvin/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
