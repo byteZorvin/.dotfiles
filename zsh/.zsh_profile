@@ -39,7 +39,6 @@ bindkey -s ^f "tmux-sessionizer\n"
 # zsh
 source <(fzf --zsh)
 
-export AWS_DEFAULT_PROFILE=default-mfa
 export PATH="$PATH:$HOME/.local/bin"
 
 # LLVM/MLIR configuration

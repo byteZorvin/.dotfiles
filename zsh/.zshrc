@@ -169,7 +169,7 @@ alias snft='snforge test'
 alias n='nvim .'
 
 alias tk='tmux kill-server'
-
+alias cl='claude'
 
 # --------------- Aliases ---------------- #
 
@@ -190,3 +190,6 @@ alias tk='tmux kill-server'
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+
+# Added by Antigravity
+export PATH="/Users/bytezorvin/.antigravity/antigravity/bin:$PATH"
